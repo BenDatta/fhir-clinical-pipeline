@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Generated synthetic data and tooling (large; reproducible from Synthea)
+data/synthea/
+tools/
+
+# Runtime output
+logs/
+airflow/dbt/target/
+airflow/dbt/logs/
+airflow/dbt/.user.yml
+
+# Python / OS / editor
+__pycache__/
+*.pyc
+.venv/
+.claude/settings.local.json
+.DS_Store

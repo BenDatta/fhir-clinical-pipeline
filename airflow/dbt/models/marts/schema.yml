@@ -1,0 +1,105 @@
+version: 2
+
+sources:
+  - name: clinical_raw
+    schema: raw
+    tables:
+      - name: fhir_resources
+
+models:
+  # ---------------- staging ----------------
+  - name: stg_patients
+    columns:
+      - name: patient_id
+        data_tests: [not_null, unique]
+  - name: stg_encounters
+    columns:
+      - name: encounter_id
+        data_tests: [not_null, unique]
+  - name: stg_observations
+    columns:
+      - name: observation_id
+        data_tests: [not_null, unique]
+  - name: stg_conditions
+    columns:
+      - name: condition_id
+        data_tests: [not_null, unique]
+  - name: stg_medication_requests
+    columns:
+      - name: medication_request_id
+        data_tests: [not_null, unique]
+
+  # ---------------- marts ----------------
+  - name: dim_patients
+    description: One row per patient, with demographics, age and vital status.
+    columns:
+      - name: patient_id
+        data_tests: [not_null, unique]
+      - name: gender
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['female', 'male', 'other', 'unknown']
+      - name: birth_date
+        data_tests: [not_null]
+      - name: age
+        data_tests: [not_null]
+      - name: is_deceased
+        data_tests: [not_null]
+
+  - name: fct_encounters
+    columns:
+      - name: encounter_id
+        data_tests: [not_null, unique]
+      - name: patient_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('dim_patients')
+                field: patient_id
+
+  - name: fct_observations
+    columns:
+      - name: observation_id
+        data_tests: [not_null, unique]
+      - name: patient_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('dim_patients')
+                field: patient_id
+
+  - name: fct_conditions
+    description: One row per diagnosis (SNOMED CT).
+    columns:
+      - name: condition_id
+        data_tests: [not_null, unique]
+      - name: patient_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('dim_patients')
+                field: patient_id
+      - name: encounter_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('fct_encounters')
+                field: encounter_id
+
+  - name: fct_medication_requests
+    description: One row per prescription (RxNorm), with referenced Medications resolved.
+    columns:
+      - name: medication_request_id
+        data_tests: [not_null, unique]
+      - name: patient_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('dim_patients')
+                field: patient_id
+      - name: medication_name
+        data_tests:
+          - not_null:
+              config:
+                severity: warn

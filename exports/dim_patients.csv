@@ -1,0 +1,1182 @@
+patient_id,gender,birth_date,age,age_group,is_deceased,deceased_at,race,ethnicity,marital_status,city,state
+10002,male,1969-06-05,57,50-64,f,,White,Not Hispanic or Latino,Divorced,Lunenburg,MA
+101027,female,1940-12-13,85,80+,f,,White,Not Hispanic or Latino,Divorced,Hopkinton,MA
+101919,female,1940-08-24,86,80+,f,,White,Not Hispanic or Latino,Married,West Brookfield,MA
+105544,female,1942-09-22,84,80+,f,,Asian,Hispanic or Latino,Divorced,Holyoke,MA
+106968,female,1937-12-06,88,80+,f,,Asian,Not Hispanic or Latino,Married,Somerville,MA
+107395,female,1953-09-29,73,65-79,f,,Asian,Not Hispanic or Latino,Never Married,West Concord,MA
+109396,female,1950-05-21,76,65-79,f,,White,Not Hispanic or Latino,Married,Burlington,MA
+109556,male,1985-02-03,41,35-49,f,,White,Not Hispanic or Latino,Married,Randolph,MA
+10963,female,2006-11-30,19,18-34,f,,White,Not Hispanic or Latino,Never Married,Mansfield,MA
+109742,female,1942-08-15,84,80+,f,,White,Not Hispanic or Latino,Married,Marlborough,MA
+110189,female,1991-10-11,35,35-49,f,,White,Hispanic or Latino,Never Married,Hubbardston,MA
+110434,male,1983-02-20,43,35-49,f,,White,Not Hispanic or Latino,Divorced,Southwick,MA
+110515,male,1937-02-12,89,80+,f,,White,Not Hispanic or Latino,Married,Barnstable,MA
+114987,male,1949-01-05,77,65-79,f,,Other,Not Hispanic or Latino,Married,Taunton,MA
+115715,male,1948-03-10,78,65-79,f,,White,Not Hispanic or Latino,Never Married,Rutland,MA
+115955,male,1980-12-03,45,35-49,f,,White,Not Hispanic or Latino,Married,Cambridge,MA
+116023,female,1942-06-01,84,80+,f,,White,Not Hispanic or Latino,Never Married,Amherst,MA
+116269,male,1981-12-28,44,35-49,f,,White,Not Hispanic or Latino,Married,Wilbraham,MA
+116514,male,1963-05-24,63,50-64,f,,White,Not Hispanic or Latino,Never Married,Lexington,MA
+116603,female,1962-11-27,63,50-64,f,,White,Not Hispanic or Latino,Divorced,Medford,MA
+117223,female,1959-08-06,67,65-79,f,,White,Not Hispanic or Latino,Widowed,Salem,MA
+117630,female,1987-02-11,39,35-49,f,,White,Hispanic or Latino,Never Married,Belchertown,MA
+117755,female,1990-11-13,36,35-49,f,,White,Not Hispanic or Latino,Married,Yarmouth Port,MA
+117849,male,1949-02-10,77,65-79,f,,White,Not Hispanic or Latino,Married,Williamstown,MA
+118293,male,1981-05-11,45,35-49,f,,White,Not Hispanic or Latino,Married,Haverhill,MA
+118388,female,2006-03-09,20,18-34,f,,White,Not Hispanic or Latino,Never Married,Cambridge,MA
+118521,male,1948-07-14,78,65-79,f,,White,Hispanic or Latino,Married,Saugus,MA
+11892,female,1943-08-08,83,80+,f,,Black or African American,Hispanic or Latino,Married,Boston,MA
+119007,male,1999-03-21,27,18-34,f,,Asian,Hispanic or Latino,Never Married,Lynnfield,MA
+119203,male,1984-06-16,42,35-49,f,,White,Not Hispanic or Latino,Married,Shrewsbury,MA
+119351,male,1957-02-24,69,65-79,f,,White,Not Hispanic or Latino,Widowed,Bridgewater,MA
+119500,male,2000-10-21,26,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+119583,female,1978-10-09,48,35-49,f,,White,Not Hispanic or Latino,Married,Amherst Center,MA
+119686,female,1949-02-18,77,65-79,f,,White,Not Hispanic or Latino,Divorced,Groton,MA
+120075,female,1944-05-29,82,80+,f,,White,Not Hispanic or Latino,Married,Southbridge,MA
+120365,female,1957-12-25,68,65-79,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+120652,female,1976-08-17,50,50-64,f,,White,Not Hispanic or Latino,Divorced,Southampton,MA
+120878,male,1981-05-06,45,35-49,f,,White,Not Hispanic or Latino,Married,Lincoln,MA
+120957,male,1999-10-11,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Bridgewater,MA
+121034,male,2000-05-23,26,18-34,f,,White,Not Hispanic or Latino,Never Married,Franklin,MA
+121126,male,1939-04-16,87,80+,f,,White,Not Hispanic or Latino,Married,Douglas,MA
+121280,male,1956-03-14,70,65-79,f,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Never Married,Walpole,MA
+123465,male,1939-08-22,87,80+,f,,American Indian or Alaska Native,Not Hispanic or Latino,Divorced,Douglas,MA
+123852,male,1991-04-07,35,35-49,f,,White,Not Hispanic or Latino,Never Married,Halifax,MA
+123947,male,1995-12-21,30,18-34,f,,White,Not Hispanic or Latino,Married,Milton,MA
+124073,male,2000-04-01,26,18-34,f,,White,Not Hispanic or Latino,Never Married,Hopedale,MA
+124163,male,1959-09-21,67,65-79,f,,White,Not Hispanic or Latino,Never Married,West Boylston,MA
+124735,male,1956-05-06,70,65-79,f,,White,Not Hispanic or Latino,Never Married,Barnstable,MA
+125794,female,1998-09-25,28,18-34,f,,White,Not Hispanic or Latino,Never Married,Lawrence,MA
+125940,female,1959-02-06,67,65-79,f,,White,Not Hispanic or Latino,Widowed,Boston,MA
+126205,male,2002-03-14,24,18-34,f,,White,Not Hispanic or Latino,Never Married,New Bedford,MA
+126348,male,1994-11-21,31,18-34,f,,White,Not Hispanic or Latino,Married,Gardner,MA
+126544,female,1982-05-01,44,35-49,f,,Black or African American,Not Hispanic or Latino,Married,Worcester,MA
+126713,male,1984-04-11,42,35-49,f,,Black or African American,Not Hispanic or Latino,Never Married,Chelsea,MA
+126805,male,1972-02-21,54,50-64,f,,White,Not Hispanic or Latino,Married,Grafton,MA
+126913,female,1977-08-31,49,35-49,f,,Asian,Not Hispanic or Latino,Widowed,Belmont,MA
+127076,male,1961-07-12,65,65-79,f,,White,Hispanic or Latino,Married,Wayland,MA
+127276,female,2005-01-02,21,18-34,f,,White,Not Hispanic or Latino,Never Married,Fall River,MA
+128136,female,1997-04-08,29,18-34,f,,White,Not Hispanic or Latino,Married,North Andover,MA
+12869,female,1967-04-17,59,50-64,f,,White,Hispanic or Latino,Divorced,Chelmsford,MA
+129081,male,2001-08-30,25,18-34,f,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Never Married,Boston,MA
+129139,female,1946-11-08,80,80+,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+129479,female,1950-08-26,76,65-79,f,,White,Not Hispanic or Latino,Divorced,Stoughton,MA
+129812,male,1983-05-27,43,35-49,f,,White,Not Hispanic or Latino,Married,New Bedford,MA
+129933,female,1939-04-25,87,80+,f,,Asian,Not Hispanic or Latino,Married,Boston,MA
+130010,female,1976-04-25,50,50-64,f,,White,Not Hispanic or Latino,Married,New Marlborough,MA
+130512,male,1972-01-08,54,50-64,f,,White,Not Hispanic or Latino,Divorced,Fall River,MA
+130886,female,1999-11-04,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Medford,MA
+131075,male,1975-05-27,51,50-64,f,,White,Not Hispanic or Latino,Married,Groveland,MA
+131249,female,1976-06-15,50,50-64,f,,White,Not Hispanic or Latino,Divorced,Medford,MA
+131499,female,1943-07-01,83,80+,f,,White,Not Hispanic or Latino,Married,Springfield,MA
+131788,male,1978-10-01,48,35-49,f,,American Indian or Alaska Native,Not Hispanic or Latino,Never Married,Revere,MA
+132121,male,2008-02-06,18,18-34,f,,White,Not Hispanic or Latino,Never Married,Taunton,MA
+132427,male,1978-10-20,48,35-49,f,,White,Not Hispanic or Latino,Married,Belchertown,MA
+132696,male,1959-03-19,67,65-79,f,,White,Not Hispanic or Latino,Divorced,Cambridge,MA
+132898,female,1982-12-21,43,35-49,f,,White,Not Hispanic or Latino,Married,Hadley,MA
+132982,male,1993-12-28,32,18-34,f,,Other,Not Hispanic or Latino,Married,Newton,MA
+133001,female,1972-02-14,54,50-64,f,,White,Not Hispanic or Latino,Married,Malden,MA
+133258,male,1939-02-19,87,80+,f,,White,Not Hispanic or Latino,Married,Lynnfield,MA
+133850,female,2001-08-13,25,18-34,f,,White,Hispanic or Latino,Never Married,Boston,MA
+133940,female,1940-12-25,85,80+,f,,White,Not Hispanic or Latino,Never Married,Medford,MA
+134125,male,1946-07-31,80,80+,f,,White,Not Hispanic or Latino,Married,Lowell,MA
+134417,male,1948-09-22,78,65-79,f,,White,Hispanic or Latino,Married,North Andover,MA
+134421,male,1948-06-26,78,65-79,f,,White,Not Hispanic or Latino,Never Married,Framingham,MA
+135717,male,1989-11-25,36,35-49,f,,White,Not Hispanic or Latino,Divorced,Williamsburg,MA
+13611,female,1942-02-01,84,80+,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+136343,male,1966-08-14,60,50-64,f,,Black or African American,Not Hispanic or Latino,Married,Cambridge,MA
+136771,male,1961-07-09,65,65-79,f,,Asian,Not Hispanic or Latino,Divorced,Cambridge,MA
+138635,female,2000-03-01,26,18-34,f,,White,Not Hispanic or Latino,Never Married,Carver,MA
+139797,male,1941-04-22,85,80+,f,,White,Not Hispanic or Latino,Never Married,Agawam,MA
+141337,male,1972-09-22,54,50-64,f,,Black or African American,Not Hispanic or Latino,Married,Bridgewater,MA
+142835,male,1951-05-23,75,65-79,f,,Asian,Not Hispanic or Latino,Married,Newton,MA
+143293,male,1958-09-10,68,65-79,f,,White,Not Hispanic or Latino,Never Married,Hubbardston,MA
+143458,male,1988-11-07,38,35-49,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+143641,male,1961-11-25,64,50-64,f,,White,Not Hispanic or Latino,Divorced,Northbridge,MA
+143835,male,1974-02-05,52,50-64,f,,White,Not Hispanic or Latino,Married,Amherst Center,MA
+144044,male,2001-05-23,25,18-34,f,,White,Not Hispanic or Latino,Never Married,Holyoke,MA
+144130,female,1986-11-09,40,35-49,f,,Black or African American,Not Hispanic or Latino,Married,Newbury,MA
+144168,male,1981-10-04,45,35-49,f,,White,Not Hispanic or Latino,Married,Danvers,MA
+144600,male,1949-04-19,77,65-79,f,,White,Not Hispanic or Latino,Never Married,Agawam,MA
+144787,male,1954-12-21,71,65-79,f,,White,Not Hispanic or Latino,Married,Abington,MA
+145163,male,1937-12-29,88,80+,f,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Widowed,Brockton,MA
+145402,female,1998-03-22,28,18-34,f,,White,Not Hispanic or Latino,Married,Wellesley,MA
+147179,female,1952-05-01,74,65-79,f,,White,Not Hispanic or Latino,Married,Medfield,MA
+147335,female,1999-01-13,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Wareham,MA
+147607,male,1940-04-28,86,80+,f,,White,Not Hispanic or Latino,Married,Falmouth,MA
+147897,male,1997-09-22,29,18-34,f,,White,Not Hispanic or Latino,Married,Montague,MA
+148062,male,1968-05-22,58,50-64,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+148206,female,1983-12-28,42,35-49,f,,White,Not Hispanic or Latino,Married,Mansfield,MA
+148361,female,1965-04-16,61,50-64,f,,Asian,Hispanic or Latino,Married,Ayer,MA
+148898,female,1948-05-13,78,65-79,f,,Other,Not Hispanic or Latino,Widowed,Oak Bluffs,MA
+149160,male,2004-12-15,21,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+149185,male,1945-11-18,81,80+,f,,White,Not Hispanic or Latino,Married,Norton,MA
+149429,male,1989-09-03,37,35-49,f,,White,Not Hispanic or Latino,Married,Braintree,MA
+149451,female,1989-08-28,37,35-49,f,,White,Not Hispanic or Latino,Never Married,Lowell,MA
+149620,male,1998-08-08,28,18-34,f,,White,Hispanic or Latino,Married,Boston,MA
+149692,male,1987-01-10,39,35-49,f,,White,Not Hispanic or Latino,Married,Sandwich,MA
+149741,female,1974-07-05,52,50-64,f,,White,Not Hispanic or Latino,Married,Abington,MA
+149853,female,1953-10-01,73,65-79,f,,White,Not Hispanic or Latino,Divorced,Lanesborough,MA
+150057,female,1942-08-06,84,80+,f,,White,Not Hispanic or Latino,Widowed,South Duxbury,MA
+150679,female,1979-02-04,47,35-49,f,,White,Not Hispanic or Latino,Never Married,Andover,MA
+150997,female,1992-01-04,34,18-34,f,,White,Not Hispanic or Latino,Married,Everett,MA
+151212,male,1943-10-05,83,80+,f,,White,Not Hispanic or Latino,Divorced,Shelburne,MA
+151761,female,1976-11-06,50,50-64,f,,White,Not Hispanic or Latino,Married,Chicopee,MA
+15187,female,1995-09-07,31,18-34,f,,White,Not Hispanic or Latino,Married,Fall River,MA
+152171,male,1981-10-17,45,35-49,f,,White,Not Hispanic or Latino,Married,North Andover,MA
+152286,male,1954-06-18,72,65-79,f,,White,Not Hispanic or Latino,Married,New Bedford,MA
+152366,male,1954-10-13,72,65-79,f,,White,Not Hispanic or Latino,Married,Salem,MA
+152812,male,1978-04-19,48,35-49,f,,White,Not Hispanic or Latino,Married,Arlington,MA
+152875,male,1966-05-23,60,50-64,f,,White,Not Hispanic or Latino,Married,East Bridgewater,MA
+153032,female,1983-07-10,43,35-49,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+153160,female,1976-07-14,50,50-64,f,,White,Not Hispanic or Latino,Married,Groveland,MA
+153325,male,1944-04-07,82,80+,f,,White,Hispanic or Latino,Divorced,Newton,MA
+154161,male,1993-08-18,33,18-34,f,,Black or African American,Not Hispanic or Latino,Married,Newton,MA
+154182,male,1994-07-13,32,18-34,f,,White,Not Hispanic or Latino,Never Married,Auburn,MA
+154321,male,1941-07-27,85,80+,f,,White,Not Hispanic or Latino,Never Married,Rockland,MA
+155342,male,1987-11-12,39,35-49,f,,White,Not Hispanic or Latino,Never Married,Pepperell,MA
+157053,male,1987-10-07,39,35-49,f,,White,Not Hispanic or Latino,Never Married,Concord,MA
+157140,male,2006-06-02,20,18-34,f,,White,Hispanic or Latino,Never Married,Worcester,MA
+157254,male,1994-06-07,32,18-34,f,,White,Not Hispanic or Latino,Married,Brockton,MA
+157319,female,1958-04-30,68,65-79,f,,White,Not Hispanic or Latino,Divorced,Attleboro,MA
+157337,female,1999-07-21,27,18-34,f,,Asian,Not Hispanic or Latino,Never Married,Northampton,MA
+157768,female,1996-08-11,30,18-34,f,,White,Not Hispanic or Latino,Married,New Bedford,MA
+157977,male,1980-09-28,46,35-49,f,,White,Not Hispanic or Latino,Divorced,Revere,MA
+158099,male,1947-08-26,79,65-79,f,,Asian,Not Hispanic or Latino,Married,Medway,MA
+158291,female,1975-07-10,51,50-64,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+158723,male,1984-09-09,42,35-49,f,,White,Not Hispanic or Latino,Married,Arlington,MA
+158852,male,1971-01-30,55,50-64,f,,White,Not Hispanic or Latino,Never Married,West Bridgewater,MA
+158979,female,2002-07-01,24,18-34,f,,Black or African American,Hispanic or Latino,Never Married,Peabody,MA
+159031,male,1972-03-16,54,50-64,f,,White,Not Hispanic or Latino,Married,Lexington,MA
+159310,female,1938-02-03,88,80+,f,,White,Not Hispanic or Latino,Never Married,Manchester-by-the-Sea,MA
+159473,female,1961-11-14,65,65-79,f,,Black or African American,Not Hispanic or Latino,Never Married,Gloucester,MA
+159769,male,1946-12-16,79,65-79,f,,White,Not Hispanic or Latino,Never Married,Milton,MA
+16005,male,1948-08-28,78,65-79,f,,White,Not Hispanic or Latino,Widowed,Medford,MA
+160100,male,2002-03-31,24,18-34,f,,White,Not Hispanic or Latino,Never Married,East Bridgewater,MA
+163100,female,1950-06-06,76,65-79,f,,White,Not Hispanic or Latino,Married,Wilbraham,MA
+16490,female,1961-06-13,65,65-79,f,,Black or African American,Not Hispanic or Latino,Married,Milford,MA
+16705,male,2002-02-08,24,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+16777,male,1995-11-27,30,18-34,f,,White,Not Hispanic or Latino,Married,Mashpee Neck,MA
+16799,male,1987-01-30,39,35-49,f,,White,Hispanic or Latino,Married,Agawam,MA
+16834,male,2002-01-27,24,18-34,f,,White,Not Hispanic or Latino,Never Married,East Bridgewater,MA
+168426,male,1963-03-13,63,50-64,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+16858,female,1996-11-06,30,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+168721,male,1939-06-10,87,80+,f,,White,Hispanic or Latino,Divorced,Athol,MA
+17019,female,1957-08-03,69,65-79,f,,White,Hispanic or Latino,Never Married,Rutland,MA
+17043,female,1975-09-11,51,50-64,f,,White,Not Hispanic or Latino,Married,Newton,MA
+171364,female,1953-02-20,73,65-79,f,,Black or African American,Not Hispanic or Latino,Married,Lexington,MA
+171531,female,2000-03-26,26,18-34,f,,White,Not Hispanic or Latino,Never Married,Franklin,MA
+171742,male,1995-04-28,31,18-34,f,,Black or African American,Not Hispanic or Latino,Married,Brookline,MA
+171794,male,1998-05-29,28,18-34,f,,White,Hispanic or Latino,Never Married,Boston,MA
+171862,male,1971-12-19,54,50-64,f,,White,Not Hispanic or Latino,Married,Littleton,MA
+172118,male,1954-01-06,72,65-79,f,,White,Not Hispanic or Latino,Married,Pittsfield,MA
+172331,female,1993-02-09,33,18-34,f,,White,Not Hispanic or Latino,Never Married,Lowell,MA
+172532,female,1994-10-11,32,18-34,f,,White,Not Hispanic or Latino,Never Married,North Reading,MA
+172871,female,1995-11-28,30,18-34,f,,White,Hispanic or Latino,Married,Methuen,MA
+173086,female,1979-02-26,47,35-49,f,,White,Not Hispanic or Latino,Divorced,Belchertown,MA
+173226,male,1994-06-29,32,18-34,f,,White,Hispanic or Latino,Married,East Bridgewater,MA
+173342,female,1955-06-05,71,65-79,f,,White,Hispanic or Latino,Never Married,Boston,MA
+173501,male,1949-07-17,77,65-79,f,,White,Not Hispanic or Latino,Never Married,Arlington,MA
+173703,female,1999-07-29,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Methuen,MA
+173961,female,1979-02-20,47,35-49,f,,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+174101,male,1998-01-29,28,18-34,f,,White,Not Hispanic or Latino,Married,West Falmouth,MA
+174179,female,1961-03-23,65,65-79,f,,White,Not Hispanic or Latino,Married,Framingham,MA
+174290,female,1997-10-05,29,18-34,f,,White,Not Hispanic or Latino,Married,Salem,MA
+17445,female,1991-10-25,35,35-49,f,,Other,Not Hispanic or Latino,Married,Brookline,MA
+174482,female,1968-09-20,58,50-64,f,,White,Not Hispanic or Latino,Married,Malden,MA
+174777,female,1992-02-01,34,18-34,f,,White,Not Hispanic or Latino,Married,Braintree,MA
+174854,female,2000-07-30,26,18-34,f,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Never Married,Boston,MA
+174961,male,1957-03-02,69,65-79,f,,White,Not Hispanic or Latino,Married,Watertown,MA
+175168,male,1956-09-22,70,65-79,f,,White,Not Hispanic or Latino,Married,Plympton,MA
+175259,female,1957-03-25,69,65-79,f,,White,Not Hispanic or Latino,Married,North Attleborough,MA
+175948,female,1955-09-23,71,65-79,f,,White,Not Hispanic or Latino,Married,Franklin,MA
+176455,male,1966-06-17,60,50-64,f,,White,Not Hispanic or Latino,Married,Lawrence,MA
+176698,male,1939-04-13,87,80+,f,,White,Not Hispanic or Latino,Never Married,Andover,MA
+17677,female,1969-01-31,57,50-64,f,,White,Not Hispanic or Latino,Never Married,Middleton,MA
+177081,male,1998-10-08,28,18-34,f,,White,Not Hispanic or Latino,Married,Holden,MA
+177135,female,1942-09-06,84,80+,f,,Asian,Not Hispanic or Latino,Never Married,Westfield,MA
+177369,female,1992-09-15,34,18-34,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+177638,female,2006-10-02,20,18-34,f,,White,Not Hispanic or Latino,Never Married,South Amherst,MA
+177687,male,1959-08-30,67,65-79,f,,White,Not Hispanic or Latino,Married,Andover,MA
+17784,male,2007-11-12,19,18-34,f,,White,Not Hispanic or Latino,Never Married,Leicester,MA
+178127,female,1956-11-30,69,65-79,f,,Asian,Not Hispanic or Latino,Never Married,Boston,MA
+178335,male,1957-11-11,69,65-79,f,,White,Not Hispanic or Latino,Never Married,Buzzards Bay,MA
+178632,male,1974-08-25,52,50-64,f,,Asian,Not Hispanic or Latino,Married,Needham,MA
+178703,male,1972-04-24,54,50-64,f,,White,Not Hispanic or Latino,Married,Gloucester,MA
+178891,male,1986-10-10,40,35-49,f,,White,Hispanic or Latino,Married,North Plymouth,MA
+179190,female,1939-07-15,87,80+,f,,American Indian or Alaska Native,Not Hispanic or Latino,Married,Plymouth,MA
+179489,female,2008-02-29,18,18-34,f,,White,Not Hispanic or Latino,Never Married,Tyngsborough,MA
+179611,female,1963-03-18,63,50-64,f,,White,Not Hispanic or Latino,Divorced,Shirley,MA
+180093,female,1971-08-19,55,50-64,f,,White,Not Hispanic or Latino,Divorced,Swansea,MA
+180659,male,1992-02-17,34,18-34,f,,White,Not Hispanic or Latino,Never Married,Danvers,MA
+180797,female,2002-10-30,24,18-34,f,,White,Not Hispanic or Latino,Never Married,Fall River,MA
+180980,female,1969-08-11,57,50-64,f,,Black or African American,Not Hispanic or Latino,Married,Clinton,MA
+18192,male,1954-04-22,72,65-79,f,,White,Hispanic or Latino,Widowed,Northborough,MA
+182288,male,2005-06-24,21,18-34,f,,White,Not Hispanic or Latino,Never Married,Bridgewater,MA
+18248,female,1942-04-06,84,80+,f,,White,Not Hispanic or Latino,Never Married,Bourne,MA
+183295,male,2006-07-26,20,18-34,f,,White,Not Hispanic or Latino,Never Married,Fall River,MA
+183926,male,1997-11-30,28,18-34,f,,White,Hispanic or Latino,Married,Northbridge,MA
+184230,male,1990-06-14,36,35-49,f,,White,Not Hispanic or Latino,Divorced,Boston,MA
+185328,male,1974-05-15,52,50-64,f,,White,Not Hispanic or Latino,Married,Swansea,MA
+185363,male,1962-05-30,64,50-64,f,,Asian,Not Hispanic or Latino,Married,Cambridge,MA
+186142,male,1976-02-09,50,50-64,f,,White,Hispanic or Latino,Widowed,Danvers,MA
+186262,male,1986-03-07,40,35-49,f,,White,Not Hispanic or Latino,Divorced,Brockton,MA
+186416,male,1981-07-10,45,35-49,f,,White,Not Hispanic or Latino,Widowed,Winchester,MA
+186550,male,1970-12-23,55,50-64,f,,White,Not Hispanic or Latino,Married,Milford,MA
+186694,male,1961-01-20,65,65-79,f,,White,Not Hispanic or Latino,Married,Rowley,MA
+186790,male,1956-10-22,70,65-79,f,,White,Not Hispanic or Latino,Never Married,Waltham,MA
+187191,male,1973-07-31,53,50-64,f,,White,Not Hispanic or Latino,Never Married,Brookline,MA
+188140,male,1948-10-10,78,65-79,f,,White,Hispanic or Latino,Divorced,Lawrence,MA
+188358,male,1987-06-13,39,35-49,f,,White,Not Hispanic or Latino,Never Married,Framingham,MA
+188384,male,1943-09-24,83,80+,f,,White,Not Hispanic or Latino,Never Married,Mansfield,MA
+18853,male,1956-07-03,70,65-79,f,,Asian,Not Hispanic or Latino,Never Married,Pittsfield,MA
+188651,male,1963-09-02,63,50-64,f,,White,Not Hispanic or Latino,Widowed,Woburn,MA
+188998,female,1941-02-07,85,80+,f,,Asian,Not Hispanic or Latino,Married,Everett,MA
+189795,male,1971-11-29,54,50-64,f,,White,Not Hispanic or Latino,Married,North Reading,MA
+19189,male,1975-12-31,50,50-64,f,,Asian,Not Hispanic or Latino,Married,Shrewsbury,MA
+19254,male,1964-09-04,62,50-64,f,,White,Not Hispanic or Latino,Married,Springfield,MA
+193006,female,1977-01-25,49,35-49,f,,White,Not Hispanic or Latino,Divorced,Watertown,MA
+193565,female,1969-03-02,57,50-64,f,,White,Not Hispanic or Latino,Married,Lowell,MA
+193889,female,1938-02-26,88,80+,f,,White,Not Hispanic or Latino,Married,Andover,MA
+19422,male,1943-12-22,82,80+,f,,White,Not Hispanic or Latino,Married,Weymouth,MA
+194411,female,2007-12-22,18,18-34,f,,White,Not Hispanic or Latino,Never Married,Plympton,MA
+194679,female,1973-07-16,53,50-64,f,,White,Not Hispanic or Latino,Never Married,Hopkinton,MA
+194823,female,1951-11-26,74,65-79,f,,White,Not Hispanic or Latino,Married,Lunenburg,MA
+195240,female,1969-06-19,57,50-64,f,,White,Not Hispanic or Latino,Never Married,South Hadley,MA
+195271,female,1999-08-05,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Westfield,MA
+195621,female,1941-03-17,85,80+,f,,White,Not Hispanic or Latino,Married,Greenfield,MA
+196079,male,2004-05-23,22,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+196141,female,1958-04-03,68,65-79,f,,White,Not Hispanic or Latino,Married,Hudson,MA
+196420,male,1995-11-30,30,18-34,f,,Asian,Not Hispanic or Latino,Married,Bridgewater,MA
+196461,female,1980-12-20,45,35-49,f,,White,Not Hispanic or Latino,Divorced,Middleborough,MA
+196807,male,2004-05-24,22,18-34,f,,Black or African American,Hispanic or Latino,Never Married,Springfield,MA
+196947,female,1943-10-05,83,80+,f,,White,Not Hispanic or Latino,Never Married,Waltham,MA
+196967,female,2002-07-09,24,18-34,f,,White,Not Hispanic or Latino,Never Married,Worcester,MA
+19745,male,1950-05-24,76,65-79,f,,White,Not Hispanic or Latino,Married,Quincy,MA
+197462,female,2003-10-27,23,18-34,f,,Black or African American,Not Hispanic or Latino,Never Married,West Springfield,MA
+197772,female,1995-12-05,30,18-34,f,,White,Not Hispanic or Latino,Married,Whitinsville,MA
+197840,male,1942-04-14,84,80+,f,,White,Not Hispanic or Latino,Widowed,Wayland,MA
+198129,male,1959-04-20,67,65-79,f,,White,Hispanic or Latino,Married,Dennis Port,MA
+198528,female,1968-04-03,58,50-64,f,,White,Not Hispanic or Latino,Married,Springfield,MA
+198654,female,1992-05-09,34,18-34,f,,White,Not Hispanic or Latino,Married,Boston,MA
+19917,female,1944-08-12,82,80+,f,,White,Not Hispanic or Latino,Divorced,Littleton,MA
+199202,male,1988-09-27,38,35-49,f,,White,Hispanic or Latino,Married,Attleboro,MA
+199370,female,1959-06-30,67,65-79,f,,White,Not Hispanic or Latino,Divorced,Revere,MA
+199550,male,1973-06-15,53,50-64,f,,White,Not Hispanic or Latino,Married,Ludlow,MA
+199756,male,1990-01-28,36,35-49,f,,White,Not Hispanic or Latino,Never Married,Leominster,MA
+199789,female,1939-09-29,87,80+,f,,White,Not Hispanic or Latino,Never Married,Acton,MA
+200004,male,1959-11-02,67,65-79,f,,White,Not Hispanic or Latino,Married,Quincy,MA
+202426,male,1961-08-08,65,65-79,f,,White,Not Hispanic or Latino,Never Married,Holden,MA
+202646,male,1961-07-14,65,65-79,f,,White,Not Hispanic or Latino,Never Married,Lowell,MA
+202940,male,1984-10-07,42,35-49,f,,White,Not Hispanic or Latino,Married,Milton,MA
+203152,female,1979-01-25,47,35-49,f,,White,Not Hispanic or Latino,Never Married,North Amherst,MA
+203315,female,1990-10-23,36,35-49,f,,White,Not Hispanic or Latino,Married,Taunton,MA
+203505,female,1970-04-02,56,50-64,f,,White,Not Hispanic or Latino,Married,Gardner,MA
+203769,male,1953-12-29,72,65-79,f,,White,Not Hispanic or Latino,Married,Williamstown,MA
+204000,male,1959-08-20,67,65-79,f,,Black or African American,Not Hispanic or Latino,Married,Rockland,MA
+204164,female,1956-12-06,69,65-79,f,,White,Hispanic or Latino,Never Married,North Reading,MA
+204533,male,2007-01-21,19,18-34,f,,Other,Not Hispanic or Latino,Never Married,Leominster,MA
+204616,female,1943-05-04,83,80+,f,,Asian,Hispanic or Latino,Married,Lawrence,MA
+204886,male,2002-04-27,24,18-34,f,,White,Not Hispanic or Latino,Never Married,Lawrence,MA
+204915,female,1951-06-05,75,65-79,f,,White,Not Hispanic or Latino,Never Married,Hingham,MA
+205072,male,1998-11-03,28,18-34,f,,White,Not Hispanic or Latino,Married,Fitchburg,MA
+205244,male,1998-07-11,28,18-34,f,,Black or African American,Not Hispanic or Latino,Married,Palmer,MA
+205356,male,1948-07-17,78,65-79,f,,White,Not Hispanic or Latino,Never Married,Dennis,MA
+210234,male,2007-02-07,19,18-34,f,,White,Not Hispanic or Latino,Never Married,Peabody,MA
+210433,male,1985-12-26,40,35-49,f,,Black or African American,Not Hispanic or Latino,Divorced,Springfield,MA
+210459,female,2003-06-24,23,18-34,f,,White,Not Hispanic or Latino,Never Married,Littleton,MA
+210747,male,2003-12-18,22,18-34,f,,White,Not Hispanic or Latino,Never Married,Barnstable,MA
+210827,male,1990-04-05,36,35-49,f,,White,Not Hispanic or Latino,Married,Woburn,MA
+210859,female,1939-02-17,87,80+,f,,White,Not Hispanic or Latino,Never Married,Haverhill,MA
+211275,male,1984-11-07,42,35-49,f,,White,Not Hispanic or Latino,Married,Hudson,MA
+211351,male,2001-11-30,24,18-34,f,,White,Not Hispanic or Latino,Never Married,Newton,MA
+211373,male,1986-09-26,40,35-49,f,,White,Not Hispanic or Latino,Never Married,Bourne,MA
+211462,female,1973-05-13,53,50-64,f,,White,Not Hispanic or Latino,Married,Brockton,MA
+211666,female,1942-01-01,84,80+,f,,White,Not Hispanic or Latino,Married,Melrose,MA
+212171,female,1990-06-03,36,35-49,f,,Asian,Not Hispanic or Latino,Married,Waltham,MA
+212208,female,1945-12-26,80,80+,f,,White,Not Hispanic or Latino,Divorced,Lowell,MA
+212491,male,1963-04-08,63,50-64,f,,White,Not Hispanic or Latino,Married,Haverhill,MA
+212731,male,1952-09-19,74,65-79,f,,White,Not Hispanic or Latino,Married,Peabody,MA
+21290,female,1989-12-27,36,35-49,f,,White,Not Hispanic or Latino,Divorced,Middleborough Center,MA
+212924,female,1965-07-29,61,50-64,f,,White,Not Hispanic or Latino,Never Married,Mansfield Center,MA
+213147,male,1970-07-11,56,50-64,f,,White,Not Hispanic or Latino,Divorced,Pittsfield,MA
+213475,female,1992-01-25,34,18-34,f,,White,Not Hispanic or Latino,Never Married,West Bridgewater,MA
+214356,male,1942-02-18,84,80+,f,,Asian,Hispanic or Latino,Never Married,Cambridge,MA
+21648,female,1989-08-27,37,35-49,f,,White,Not Hispanic or Latino,Never Married,Saugus,MA
+219965,male,1946-10-15,80,80+,f,,White,Not Hispanic or Latino,Married,Boston,MA
+21997,female,2001-11-03,25,18-34,f,,White,Not Hispanic or Latino,Never Married,Northwest Harwich,MA
+220305,male,1981-04-17,45,35-49,f,,White,Not Hispanic or Latino,Divorced,Pepperell,MA
+220524,female,1988-11-15,38,35-49,f,,White,Not Hispanic or Latino,Married,Salem,MA
+22054,female,1974-09-28,52,50-64,f,,White,Not Hispanic or Latino,Divorced,Freetown,MA
+220639,female,1970-06-27,56,50-64,f,,White,Hispanic or Latino,Married,Ayer,MA
+220902,male,1959-12-24,66,65-79,f,,White,Not Hispanic or Latino,Married,Charlton,MA
+221275,female,2005-03-08,21,18-34,f,,Black or African American,Not Hispanic or Latino,Never Married,Acushnet,MA
+221307,male,1952-01-15,74,65-79,f,,Asian,Not Hispanic or Latino,Divorced,Milton,MA
+221580,male,1964-02-01,62,50-64,f,,White,Not Hispanic or Latino,Married,Pembroke,MA
+221968,male,1988-05-13,38,35-49,f,,White,Not Hispanic or Latino,Married,Somerville,MA
+222239,male,1983-01-03,43,35-49,f,,White,Not Hispanic or Latino,Never Married,Somerville,MA
+222566,male,1966-01-11,60,50-64,f,,White,Not Hispanic or Latino,Married,Upton,MA
+222783,male,1987-07-17,39,35-49,f,,White,Not Hispanic or Latino,Married,Taunton,MA
+22286,female,1942-01-29,84,80+,f,,White,Not Hispanic or Latino,Widowed,Haverhill,MA
+223142,male,1969-08-31,57,50-64,f,,White,Not Hispanic or Latino,Married,Dartmouth,MA
+223262,male,2003-11-05,23,18-34,f,,Black or African American,Hispanic or Latino,Never Married,Monson,MA
+223386,male,1958-04-20,68,65-79,f,,White,Hispanic or Latino,Never Married,Danvers,MA
+223726,male,1958-09-27,68,65-79,f,,White,Not Hispanic or Latino,Married,New Bedford,MA
+22380,female,1963-10-16,63,50-64,f,,White,Not Hispanic or Latino,Married,Brookline,MA
+223939,male,1978-03-21,48,35-49,f,,White,Not Hispanic or Latino,Divorced,Salem,MA
+224059,male,1970-03-17,56,50-64,f,,White,Not Hispanic or Latino,Never Married,Westwood,MA
+224575,male,1956-04-24,70,65-79,f,,Asian,Not Hispanic or Latino,Never Married,Beverly,MA
+225117,male,1943-02-04,83,80+,f,,White,Not Hispanic or Latino,Widowed,Pittsfield,MA
+228400,male,1969-01-07,57,50-64,f,,Black or African American,Hispanic or Latino,Divorced,Springfield,MA
+22936,female,1969-11-11,57,50-64,f,,White,Not Hispanic or Latino,Widowed,Everett,MA
+231459,male,1989-10-09,37,35-49,f,,Black or African American,Not Hispanic or Latino,Never Married,Dennis,MA
+231487,male,1944-09-24,82,80+,f,,White,Not Hispanic or Latino,Married,Norwood,MA
+23168,female,1948-07-28,78,65-79,f,,White,Not Hispanic or Latino,Never Married,Norwell,MA
+231878,male,1947-11-25,78,65-79,f,,White,Not Hispanic or Latino,Married,Walpole,MA
+232103,male,1944-07-10,82,80+,f,,Asian,Not Hispanic or Latino,Never Married,Methuen,MA
+232263,female,1959-03-11,67,65-79,f,,White,Not Hispanic or Latino,Married,Spencer,MA
+232447,female,1982-06-19,44,35-49,f,,White,Hispanic or Latino,Married,Upton,MA
+233052,male,1948-07-24,78,65-79,f,,Other,Not Hispanic or Latino,Married,Beverly,MA
+23426,female,2007-08-11,19,18-34,f,,White,Hispanic or Latino,Never Married,Canton,MA
+234300,male,1995-11-20,31,18-34,f,,White,Not Hispanic or Latino,Married,Chicopee,MA
+234327,female,2004-03-20,22,18-34,f,,White,Not Hispanic or Latino,Never Married,Taunton,MA
+234465,female,1964-09-12,62,50-64,f,,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+234750,female,1997-04-19,29,18-34,f,,White,Not Hispanic or Latino,Married,Boston,MA
+234865,female,1966-10-28,60,50-64,f,,White,Not Hispanic or Latino,Widowed,Braintree,MA
+235075,female,2004-10-24,22,18-34,f,,Asian,Not Hispanic or Latino,Never Married,Boston,MA
+23513,male,1979-12-05,46,35-49,f,,White,Not Hispanic or Latino,Married,West Yarmouth,MA
+235204,male,2006-11-05,20,18-34,f,,White,Not Hispanic or Latino,Never Married,Peabody,MA
+235304,female,1945-03-11,81,80+,f,,White,Hispanic or Latino,Married,Lexington,MA
+235479,male,1993-04-30,33,18-34,f,,White,Not Hispanic or Latino,Married,Foxborough,MA
+235876,male,1941-01-12,85,80+,f,,White,Not Hispanic or Latino,Married,Springfield,MA
+236201,male,1945-05-13,81,80+,f,,White,Not Hispanic or Latino,Divorced,Lowell,MA
+23673,male,1963-06-20,63,50-64,f,,Asian,Not Hispanic or Latino,Divorced,Boston,MA
+236874,female,1939-06-16,87,80+,f,,White,Hispanic or Latino,Never Married,Springfield,MA
+238188,male,1966-12-11,59,50-64,f,,Black or African American,Not Hispanic or Latino,Widowed,Newton,MA
+23952,male,1998-08-23,28,18-34,f,,White,Not Hispanic or Latino,Never Married,Westfield,MA
+239566,male,1967-05-12,59,50-64,f,,Black or African American,Not Hispanic or Latino,Never Married,Boston,MA
+239822,male,1990-03-13,36,35-49,f,,White,Not Hispanic or Latino,Married,Westford,MA
+239877,male,1940-07-22,86,80+,f,,White,Not Hispanic or Latino,Divorced,Charlemont,MA
+240735,male,1975-05-16,51,50-64,f,,White,Not Hispanic or Latino,Married,Boston,MA
+241092,male,1966-04-06,60,50-64,f,,White,Not Hispanic or Latino,Married,Westfield,MA
+24168,male,1938-10-30,88,80+,f,,White,Not Hispanic or Latino,Married,Boston,MA
+242136,female,1971-06-25,55,50-64,f,,Black or African American,Not Hispanic or Latino,Divorced,Ipswich,MA
+242636,female,1971-12-17,54,50-64,f,,White,Not Hispanic or Latino,Married,Plymouth,MA
+242797,male,2006-12-19,19,18-34,f,,White,Not Hispanic or Latino,Never Married,Orange,MA
+242944,male,2003-04-12,23,18-34,f,,White,Hispanic or Latino,Never Married,Lynnfield,MA
+243032,male,1986-11-21,39,35-49,f,,White,Hispanic or Latino,Married,Raynham,MA
+243079,male,1959-11-07,67,65-79,f,,Asian,Hispanic or Latino,Married,Revere,MA
+243337,female,1972-11-30,53,50-64,f,,Black or African American,Hispanic or Latino,Married,Revere,MA
+243541,male,1953-02-03,73,65-79,f,,White,Hispanic or Latino,Married,Vineyard Haven,MA
+243811,female,1952-09-28,74,65-79,f,,White,Not Hispanic or Latino,Divorced,Westford,MA
+244047,female,1995-03-13,31,18-34,f,,White,Not Hispanic or Latino,Never Married,Yarmouth,MA
+244213,male,1970-11-30,55,50-64,f,,White,Not Hispanic or Latino,Widowed,Fitchburg,MA
+244380,male,1963-08-15,63,50-64,f,,Black or African American,Hispanic or Latino,Married,Boston,MA
+244536,male,1982-10-02,44,35-49,f,,White,Hispanic or Latino,Never Married,Boston,MA
+244704,female,2003-01-03,23,18-34,f,,White,Not Hispanic or Latino,Never Married,Dennis,MA
+244797,male,1970-03-03,56,50-64,f,,Black or African American,Not Hispanic or Latino,Widowed,Worcester,MA
+24488,male,1941-10-01,85,80+,f,,White,Not Hispanic or Latino,Married,Andover,MA
+244944,male,1952-10-02,74,65-79,f,,White,Not Hispanic or Latino,Married,Arlington,MA
+245270,male,1996-05-02,30,18-34,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+245389,male,1966-12-29,59,50-64,f,,Black or African American,Hispanic or Latino,Married,Boston,MA
+245483,male,1976-07-30,50,50-64,f,,White,Not Hispanic or Latino,Married,Lowell,MA
+245777,male,1981-06-16,45,35-49,f,,Black or African American,Not Hispanic or Latino,Divorced,Boston,MA
+245982,female,1944-08-03,82,80+,f,,White,Not Hispanic or Latino,Never Married,Brockton,MA
+246108,male,1967-12-02,58,50-64,f,,White,Not Hispanic or Latino,Never Married,Weston,MA
+246611,female,1999-09-13,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+246817,female,1999-03-31,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Freetown,MA
+246961,female,2003-08-18,23,18-34,f,,White,Not Hispanic or Latino,Never Married,Norwood,MA
+247132,female,2004-11-29,21,18-34,f,,White,Not Hispanic or Latino,Never Married,Brockton,MA
+247164,female,1983-09-27,43,35-49,f,,White,Not Hispanic or Latino,Divorced,Acushnet,MA
+247302,male,1978-09-18,48,35-49,f,,White,Not Hispanic or Latino,Widowed,Boston,MA
+247379,female,1987-02-15,39,35-49,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+247441,female,2000-09-22,26,18-34,f,,White,Hispanic or Latino,Never Married,Springfield,MA
+247607,male,1996-03-29,30,18-34,f,,White,Not Hispanic or Latino,Married,Shrewsbury,MA
+247639,female,1955-03-04,71,65-79,f,,White,Not Hispanic or Latino,Divorced,North Adams,MA
+247918,female,1975-10-01,51,50-64,f,,White,Not Hispanic or Latino,Married,Pepperell,MA
+248226,female,1974-10-12,52,50-64,f,,White,Not Hispanic or Latino,Married,Revere,MA
+248423,male,1968-02-17,58,50-64,f,,Other,Not Hispanic or Latino,Divorced,Boston,MA
+249112,female,1955-05-14,71,65-79,f,,White,Not Hispanic or Latino,Widowed,Boxford,MA
+249702,female,1987-01-11,39,35-49,f,,White,Not Hispanic or Latino,Married,Granville,MA
+250037,female,1954-11-23,71,65-79,f,,White,Not Hispanic or Latino,Married,Westford,MA
+250253,male,1995-10-21,31,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+250311,female,1982-12-09,43,35-49,f,,White,Not Hispanic or Latino,Divorced,Taunton,MA
+250410,male,1994-03-31,32,18-34,f,,White,Hispanic or Latino,Married,Franklin,MA
+250588,male,1980-10-31,46,35-49,f,,White,Not Hispanic or Latino,Married,Brookline,MA
+250782,male,1946-03-18,80,80+,f,,White,Not Hispanic or Latino,Married,Bridgewater,MA
+250827,female,1952-05-19,74,65-79,f,,Black or African American,Not Hispanic or Latino,Married,Ludlow,MA
+251645,female,1947-06-13,79,65-79,f,,White,Not Hispanic or Latino,Married,Everett,MA
+251911,female,1997-06-27,29,18-34,f,,White,Not Hispanic or Latino,Married,Mansfield,MA
+252276,female,1970-01-25,56,50-64,f,,White,Not Hispanic or Latino,Married,Wareham,MA
+253402,female,1994-05-28,32,18-34,f,,Black or African American,Not Hispanic or Latino,Married,Oxford,MA
+254263,female,1995-03-14,31,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+254670,male,1996-10-01,30,18-34,f,,Black or African American,Not Hispanic or Latino,Married,Dunstable,MA
+254787,female,1952-03-28,74,65-79,f,,Other,Not Hispanic or Latino,Divorced,Ashland,MA
+255529,male,1993-09-03,33,18-34,f,,White,Not Hispanic or Latino,Married,Salem,MA
+255579,male,2003-12-22,22,18-34,f,,White,Not Hispanic or Latino,Never Married,North Attleborough,MA
+255742,male,1998-01-29,28,18-34,f,,White,Not Hispanic or Latino,Married,Springfield,MA
+255965,male,1958-03-06,68,65-79,f,,White,Not Hispanic or Latino,Divorced,Oak Bluffs,MA
+256299,male,2000-05-12,26,18-34,f,,Asian,Not Hispanic or Latino,Never Married,Boston,MA
+256366,male,1970-03-25,56,50-64,f,,Black or African American,Not Hispanic or Latino,Never Married,Lexington,MA
+256509,male,1947-02-17,79,65-79,f,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Widowed,Boston,MA
+257318,male,1946-04-06,80,80+,f,,White,Not Hispanic or Latino,Married,Saugus,MA
+258745,male,1978-08-07,48,35-49,f,,White,Not Hispanic or Latino,Divorced,Chelmsford,MA
+259087,female,1990-09-27,36,35-49,f,,White,Not Hispanic or Latino,Married,Boston,MA
+259282,male,1947-10-11,79,65-79,f,,White,Not Hispanic or Latino,Divorced,Worcester,MA
+259473,female,1966-09-27,60,50-64,f,,White,Not Hispanic or Latino,Divorced,Lynnfield,MA
+259760,female,1938-08-07,88,80+,f,,White,Not Hispanic or Latino,Married,West Springfield,MA
+25999,female,1980-03-02,46,35-49,f,,White,Not Hispanic or Latino,Married,Fall River,MA
+260097,female,1998-10-15,28,18-34,f,,White,Not Hispanic or Latino,Married,Rockland,MA
+260139,female,1969-10-23,57,50-64,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+260595,female,1973-05-19,53,50-64,f,,White,Not Hispanic or Latino,Married,Tewksbury,MA
+260668,female,1997-03-17,29,18-34,f,,White,Not Hispanic or Latino,Married,Framingham,MA
+260919,female,1962-11-10,64,50-64,f,,White,Not Hispanic or Latino,Never Married,Andover,MA
+261201,male,1966-07-11,60,50-64,f,,White,Not Hispanic or Latino,Married,Brookline,MA
+261367,male,1996-11-10,30,18-34,f,,White,Not Hispanic or Latino,Never Married,Cochituate,MA
+261443,male,1942-09-03,84,80+,f,,White,Not Hispanic or Latino,Married,Grafton,MA
+261457,female,1954-05-13,72,65-79,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+262636,female,1972-03-17,54,50-64,f,,White,Not Hispanic or Latino,Married,East Bridgewater,MA
+262912,male,1989-04-22,37,35-49,f,,White,Hispanic or Latino,Married,Boston,MA
+263058,female,1964-02-12,62,50-64,f,,White,Not Hispanic or Latino,Married,Fall River,MA
+263479,female,1965-09-11,61,50-64,f,,White,Not Hispanic or Latino,Married,Leominster,MA
+263758,male,1945-01-08,81,80+,f,,White,Not Hispanic or Latino,Divorced,Newburyport,MA
+264218,male,1968-09-09,58,50-64,f,,Asian,Not Hispanic or Latino,Married,Dedham,MA
+264796,female,1955-03-11,71,65-79,f,,White,Hispanic or Latino,Married,Marblehead,MA
+265023,male,1943-04-16,83,80+,f,,White,Not Hispanic or Latino,Divorced,Stoneham,MA
+265393,female,1990-10-30,36,35-49,f,,White,Not Hispanic or Latino,Married,Brookline,MA
+265485,female,2002-12-26,23,18-34,f,,White,Hispanic or Latino,Never Married,Salem,MA
+26554,male,1960-06-06,66,65-79,f,,Black or African American,Not Hispanic or Latino,Never Married,Springfield,MA
+265711,male,1964-12-11,61,50-64,f,,White,Not Hispanic or Latino,Married,Lynn,MA
+265813,female,2004-09-26,22,18-34,f,,White,Not Hispanic or Latino,Never Married,Franklin,MA
+265957,male,1937-03-08,89,80+,f,,American Indian or Alaska Native,Not Hispanic or Latino,Never Married,Clinton,MA
+266182,male,1947-06-19,79,65-79,f,,Asian,Not Hispanic or Latino,Never Married,Sunderland,MA
+267188,female,1952-06-23,74,65-79,f,,White,Not Hispanic or Latino,Married,Revere,MA
+267543,male,1978-03-06,48,35-49,f,,White,Not Hispanic or Latino,Married,Southbridge,MA
+267641,female,1938-06-12,88,80+,f,,White,Not Hispanic or Latino,Married,Milton,MA
+267800,male,1940-10-28,86,80+,f,,White,Not Hispanic or Latino,Divorced,Yarmouth,MA
+268382,female,1958-03-19,68,65-79,f,,White,Not Hispanic or Latino,Married,Peabody,MA
+268771,male,1942-11-24,83,80+,f,,Asian,Not Hispanic or Latino,Married,Boston,MA
+270491,female,2003-05-14,23,18-34,f,,Asian,Not Hispanic or Latino,Never Married,Peabody,MA
+270577,male,1947-12-09,78,65-79,f,,Other,Not Hispanic or Latino,Married,Granby,MA
+270707,male,1987-07-14,39,35-49,f,,White,Not Hispanic or Latino,Married,Fall River,MA
+271044,male,1988-05-12,38,35-49,f,,White,Not Hispanic or Latino,Never Married,Savoy,MA
+271100,male,1976-11-24,49,35-49,f,,White,Not Hispanic or Latino,Married,Brookline,MA
+271167,male,1941-12-02,84,80+,f,,White,Not Hispanic or Latino,Married,Yarmouth,MA
+271615,male,2008-05-03,18,18-34,f,,White,Not Hispanic or Latino,Never Married,Northborough,MA
+271641,male,1975-07-17,51,50-64,f,,White,Not Hispanic or Latino,Married,North Andover,MA
+271951,male,1961-12-10,64,50-64,f,,White,Not Hispanic or Latino,Married,Weymouth,MA
+272136,female,1946-07-10,80,80+,f,,White,Not Hispanic or Latino,Divorced,North Reading,MA
+272628,male,1963-05-04,63,50-64,f,,White,Not Hispanic or Latino,Married,Boston,MA
+272865,male,1974-06-11,52,50-64,f,,White,Hispanic or Latino,Married,Attleboro,MA
+273071,female,1965-01-06,61,50-64,f,,White,Not Hispanic or Latino,Never Married,Worcester,MA
+273270,male,1940-02-04,86,80+,f,,White,Not Hispanic or Latino,Widowed,Melrose,MA
+273936,male,1987-08-11,39,35-49,f,,White,Not Hispanic or Latino,Married,Lowell,MA
+274062,male,2001-06-02,25,18-34,f,,White,Hispanic or Latino,Never Married,East Longmeadow,MA
+274100,male,1942-10-22,84,80+,f,,White,Hispanic or Latino,Divorced,Fairhaven,MA
+274354,male,1967-03-17,59,50-64,f,,White,Not Hispanic or Latino,Never Married,Dedham,MA
+274558,male,1960-09-21,66,65-79,f,,Other,Not Hispanic or Latino,Married,Chelmsford,MA
+274631,male,1967-12-22,58,50-64,f,,White,Not Hispanic or Latino,Widowed,Cambridge,MA
+275036,male,1993-10-31,33,18-34,f,,White,Not Hispanic or Latino,Married,Mendon,MA
+275080,female,1989-11-28,36,35-49,f,,White,Hispanic or Latino,Married,Holyoke,MA
+275388,female,2007-09-02,19,18-34,f,,White,Not Hispanic or Latino,Never Married,Marlborough,MA
+275525,male,1942-09-04,84,80+,f,,White,Not Hispanic or Latino,Married,Bellingham,MA
+276331,male,1939-07-31,87,80+,f,,White,Hispanic or Latino,Married,Carlisle,MA
+276623,male,1997-08-10,29,18-34,f,,White,Not Hispanic or Latino,Married,Dennis Port,MA
+276665,male,1987-02-02,39,35-49,f,,White,Not Hispanic or Latino,Married,Blackstone,MA
+276914,male,1981-10-19,45,35-49,f,,White,Not Hispanic or Latino,Married,Brockton,MA
+277049,male,1996-02-13,30,18-34,f,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Never Married,Somerville,MA
+277089,male,1985-02-19,41,35-49,f,,White,Not Hispanic or Latino,Married,Scituate,MA
+277313,male,1963-10-09,63,50-64,f,,White,Not Hispanic or Latino,Divorced,Springfield,MA
+277459,male,1984-03-29,42,35-49,f,,White,Not Hispanic or Latino,Divorced,Yarmouth,MA
+277632,female,1993-01-10,33,18-34,f,,White,Not Hispanic or Latino,Married,Taunton,MA
+277723,female,1978-05-16,48,35-49,f,,White,Not Hispanic or Latino,Married,Freetown,MA
+277886,female,1991-12-06,34,18-34,f,,White,Not Hispanic or Latino,Never Married,Bridgewater,MA
+278168,female,2008-01-04,18,18-34,f,,White,Not Hispanic or Latino,Never Married,Lexington,MA
+278315,female,1943-07-15,83,80+,f,,White,Not Hispanic or Latino,Never Married,Middlefield,MA
+278553,female,1942-06-01,84,80+,f,,White,Not Hispanic or Latino,Married,Billerica,MA
+278554,male,1945-11-01,81,80+,f,,White,Not Hispanic or Latino,Widowed,Westborough,MA
+279049,female,1991-02-20,35,35-49,f,,White,Hispanic or Latino,Married,Boston,MA
+27952,female,1968-06-16,58,50-64,f,,White,Not Hispanic or Latino,Never Married,Quincy,MA
+280151,male,1968-04-14,58,50-64,f,,White,Not Hispanic or Latino,Married,Norton,MA
+280381,female,1954-12-29,71,65-79,f,,White,Not Hispanic or Latino,Divorced,Northbridge,MA
+281542,female,2007-03-08,19,18-34,f,,White,Not Hispanic or Latino,Never Married,Dracut,MA
+28159,female,1999-04-21,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Randolph,MA
+281676,female,1988-01-31,38,35-49,f,,Black or African American,Not Hispanic or Latino,Never Married,Winthrop,MA
+281864,female,1955-10-15,71,65-79,f,,Asian,Hispanic or Latino,Never Married,Chelsea,MA
+28310,female,1976-08-03,50,50-64,f,,White,Not Hispanic or Latino,Never Married,Rockland,MA
+28447,female,2002-01-16,24,18-34,f,,Black or African American,Hispanic or Latino,Never Married,Bridgewater,MA
+28607,female,1954-07-29,72,65-79,f,,White,Hispanic or Latino,Married,Medford,MA
+286252,female,1991-10-28,35,35-49,f,,White,Not Hispanic or Latino,Married,Bolton,MA
+286405,female,2008-04-19,18,18-34,f,,White,Not Hispanic or Latino,Never Married,Wrentham,MA
+286831,female,1960-08-18,66,65-79,f,,White,Not Hispanic or Latino,Married,Yarmouth,MA
+287185,female,1959-11-06,67,65-79,f,,White,Not Hispanic or Latino,Married,Granby,MA
+287402,female,1997-04-05,29,18-34,f,,White,Not Hispanic or Latino,Married,Rockland,MA
+287527,female,1999-10-31,27,18-34,f,,White,Not Hispanic or Latino,Never Married,East Brookfield,MA
+287730,female,1946-04-01,80,80+,f,,White,Not Hispanic or Latino,Divorced,Easton,MA
+288124,female,1937-08-20,89,80+,f,,White,Not Hispanic or Latino,Married,Westwood,MA
+28842,female,1970-03-18,56,50-64,f,,White,Not Hispanic or Latino,Widowed,Seekonk,MA
+288509,female,2003-06-01,23,18-34,f,,White,Not Hispanic or Latino,Never Married,Hamilton,MA
+288626,female,1962-09-20,64,50-64,f,,White,Not Hispanic or Latino,Married,Acton,MA
+288864,female,1973-09-27,53,50-64,f,,Asian,Not Hispanic or Latino,Married,Waltham,MA
+289140,female,2006-10-19,20,18-34,f,,White,Not Hispanic or Latino,Never Married,Lee,MA
+289239,male,1997-09-23,29,18-34,f,,White,Not Hispanic or Latino,Never Married,Auburn,MA
+289640,male,1988-12-02,37,35-49,f,,White,Not Hispanic or Latino,Divorced,Swampscott,MA
+289723,male,1941-07-18,85,80+,f,,White,Not Hispanic or Latino,Married,Hingham,MA
+28981,female,1966-07-21,60,50-64,f,,White,Not Hispanic or Latino,Divorced,Wellesley,MA
+290950,female,1991-01-12,35,35-49,f,,White,Not Hispanic or Latino,Widowed,Cambridge,MA
+291031,female,2000-12-25,25,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+29270,female,2003-11-13,23,18-34,f,,White,Not Hispanic or Latino,Never Married,Westfield,MA
+292789,male,1968-10-23,58,50-64,f,,White,Not Hispanic or Latino,Married,Medfield,MA
+29357,female,1967-04-04,59,50-64,f,,White,Not Hispanic or Latino,Married,New Bedford,MA
+293600,male,1983-03-25,43,35-49,f,,White,Not Hispanic or Latino,Married,Arlington,MA
+293706,female,1962-07-22,64,50-64,f,,White,Not Hispanic or Latino,Married,Newton,MA
+293894,female,1991-10-12,35,35-49,f,,White,Not Hispanic or Latino,Married,Concord,MA
+294066,female,1951-12-04,74,65-79,f,,Asian,Not Hispanic or Latino,Never Married,Cohasset,MA
+295047,female,1978-10-17,48,35-49,f,,White,Not Hispanic or Latino,Never Married,Pocasset,MA
+295737,female,1949-01-24,77,65-79,f,,White,Not Hispanic or Latino,Divorced,Waltham,MA
+296171,male,1980-04-14,46,35-49,f,,White,Hispanic or Latino,Never Married,Boston,MA
+296381,male,1936-12-31,89,80+,f,,White,Not Hispanic or Latino,Divorced,Amherst Center,MA
+296742,male,1957-07-18,69,65-79,f,,Asian,Not Hispanic or Latino,Never Married,Boston,MA
+29682,male,1968-01-20,58,50-64,f,,White,Not Hispanic or Latino,Married,Dartmouth,MA
+298284,female,1941-12-08,84,80+,f,,White,Not Hispanic or Latino,Never Married,Stoughton,MA
+299258,female,1943-08-22,83,80+,f,,White,Not Hispanic or Latino,Married,Tewksbury,MA
+29960,male,1995-12-31,30,18-34,f,,Black or African American,Not Hispanic or Latino,Never Married,Winthrop,MA
+29988,female,1986-07-26,40,35-49,f,,White,Hispanic or Latino,Married,Gloucester,MA
+30130,female,1946-02-27,80,80+,f,,White,Not Hispanic or Latino,Divorced,Westfield,MA
+302063,female,1951-02-11,75,65-79,f,,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+302552,male,1988-04-09,38,35-49,f,,White,Not Hispanic or Latino,Married,Groveland,MA
+304025,male,1977-12-31,48,35-49,f,,White,Not Hispanic or Latino,Never Married,Billerica,MA
+304198,female,1974-03-27,52,50-64,f,,White,Not Hispanic or Latino,Divorced,Chester,MA
+304339,female,1993-09-09,33,18-34,f,,White,Not Hispanic or Latino,Married,Boston,MA
+304463,male,1964-11-16,62,50-64,f,,White,Not Hispanic or Latino,Never Married,North Adams,MA
+304585,female,1949-03-11,77,65-79,f,,White,Hispanic or Latino,Married,Boston,MA
+304979,female,1967-08-05,59,50-64,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+305234,female,1985-05-10,41,35-49,f,,White,Not Hispanic or Latino,Divorced,Worcester,MA
+305377,female,1963-11-07,63,50-64,f,,White,Not Hispanic or Latino,Divorced,West Springfield,MA
+305600,male,1951-12-21,74,65-79,f,,White,Not Hispanic or Latino,Divorced,Southbridge,MA
+305886,male,1960-07-03,66,65-79,f,,White,Not Hispanic or Latino,Married,Wareham,MA
+305994,female,1972-03-18,54,50-64,f,,White,Hispanic or Latino,Married,Amesbury,MA
+306244,female,1952-03-25,74,65-79,f,,White,Not Hispanic or Latino,Married,Wareham,MA
+306607,female,1978-04-12,48,35-49,f,,White,Not Hispanic or Latino,Divorced,Medford,MA
+306783,female,2004-08-23,22,18-34,f,,White,Not Hispanic or Latino,Never Married,West Springfield,MA
+306915,female,1985-12-24,40,35-49,f,,White,Not Hispanic or Latino,Widowed,Watertown,MA
+307077,female,1941-08-07,85,80+,f,,White,Not Hispanic or Latino,Divorced,Fall River,MA
+307408,female,1965-02-06,61,50-64,f,,White,Not Hispanic or Latino,Married,Methuen,MA
+307631,male,1944-03-16,82,80+,f,,American Indian or Alaska Native,Not Hispanic or Latino,Divorced,Groton,MA
+307889,female,1974-10-04,52,50-64,f,,White,Not Hispanic or Latino,Married,Becket,MA
+308045,female,1986-07-20,40,35-49,f,,Asian,Not Hispanic or Latino,Never Married,New Bedford,MA
+308447,female,1988-04-09,38,35-49,f,,Black or African American,Not Hispanic or Latino,Married,Revere,MA
+308641,female,1995-03-02,31,18-34,f,,White,Not Hispanic or Latino,Married,Clinton,MA
+308808,female,2006-07-19,20,18-34,f,,White,Not Hispanic or Latino,Never Married,Groton,MA
+308996,female,1956-05-04,70,65-79,f,,White,Not Hispanic or Latino,Married,Amherst Center,MA
+309252,female,1990-11-05,36,35-49,f,,White,Not Hispanic or Latino,Never Married,Chicopee,MA
+309501,male,1979-09-14,47,35-49,f,,White,Not Hispanic or Latino,Married,Milford,MA
+309762,male,1970-04-29,56,50-64,f,,White,Not Hispanic or Latino,Widowed,Needham,MA
+310019,female,1970-11-27,55,50-64,f,,White,Not Hispanic or Latino,Never Married,Quincy,MA
+310133,female,1943-11-23,82,80+,f,,Asian,Not Hispanic or Latino,Married,Franklin,MA
+311133,female,1981-10-16,45,35-49,f,,White,Not Hispanic or Latino,Married,Arlington,MA
+311646,male,1950-06-21,76,65-79,f,,Black or African American,Not Hispanic or Latino,Divorced,Worcester,MA
+311980,female,1975-05-27,51,50-64,f,,Black or African American,Not Hispanic or Latino,Widowed,Newton,MA
+312282,female,1998-12-28,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Sharon,MA
+312491,male,2005-04-15,21,18-34,f,,White,Not Hispanic or Latino,Never Married,Upton,MA
+312505,male,1961-05-22,65,65-79,f,,White,Not Hispanic or Latino,Married,Fall River,MA
+312902,female,2008-10-20,18,18-34,f,,White,Hispanic or Latino,Never Married,Boston,MA
+31299,male,1977-12-10,48,35-49,f,,White,Not Hispanic or Latino,Married,West Boylston,MA
+313210,female,1953-08-16,73,65-79,f,,Asian,Not Hispanic or Latino,Married,Medford,MA
+313299,female,1993-06-12,33,18-34,f,,Other,Not Hispanic or Latino,Married,Walpole,MA
+314349,female,1948-04-30,78,65-79,f,,Black or African American,Not Hispanic or Latino,Never Married,Fitchburg,MA
+314886,male,2004-05-29,22,18-34,f,,White,Not Hispanic or Latino,Never Married,Medford,MA
+314955,female,1939-10-30,87,80+,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+315287,male,1987-05-14,39,35-49,f,,White,Not Hispanic or Latino,Married,Holbrook,MA
+315307,male,1950-12-20,75,65-79,f,,White,Not Hispanic or Latino,Divorced,Nantucket,MA
+315579,male,2004-04-17,22,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+315734,female,1963-01-23,63,50-64,f,,Black or African American,Not Hispanic or Latino,Widowed,West Bridgewater,MA
+316374,female,2002-09-22,24,18-34,f,,White,Not Hispanic or Latino,Never Married,Stoneham,MA
+316930,male,1962-06-16,64,50-64,f,,White,Not Hispanic or Latino,Divorced,Whitman,MA
+317124,male,1953-01-31,73,65-79,f,,American Indian or Alaska Native,Not Hispanic or Latino,Never Married,Cordaville,MA
+317340,female,1952-05-20,74,65-79,f,,White,Not Hispanic or Latino,Married,South Lancaster,MA
+317703,male,1979-05-12,47,35-49,f,,White,Not Hispanic or Latino,Married,Brookline,MA
+317996,female,1985-11-24,40,35-49,f,,Asian,Not Hispanic or Latino,Married,Cohasset,MA
+318244,male,1959-08-30,67,65-79,f,,White,Not Hispanic or Latino,Married,Chicopee,MA
+319015,male,2002-12-25,23,18-34,f,,White,Not Hispanic or Latino,Never Married,Charlton,MA
+319098,female,1983-03-25,43,35-49,f,,White,Not Hispanic or Latino,Never Married,Worcester,MA
+319197,female,1987-01-23,39,35-49,f,,White,Not Hispanic or Latino,Married,Haverhill,MA
+319378,female,1964-05-19,62,50-64,f,,White,Not Hispanic or Latino,Married,Boston,MA
+319606,male,1963-11-21,62,50-64,f,,White,Not Hispanic or Latino,Married,Dartmouth,MA
+319787,female,1997-07-26,29,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+319791,female,1962-03-31,64,50-64,f,,White,Not Hispanic or Latino,Married,West Springfield,MA
+320444,male,1978-08-31,48,35-49,f,,White,Not Hispanic or Latino,Never Married,Westfield,MA
+320658,female,1977-04-17,49,35-49,f,,White,Not Hispanic or Latino,Never Married,Shrewsbury,MA
+320880,male,1950-09-12,76,65-79,f,,White,Not Hispanic or Latino,Divorced,Revere,MA
+321127,female,1983-04-07,43,35-49,f,,White,Not Hispanic or Latino,Married,Ashburnham,MA
+321239,female,1977-03-13,49,35-49,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+321372,female,1989-03-02,37,35-49,f,,White,Not Hispanic or Latino,Married,Seekonk,MA
+321502,female,1940-03-04,86,80+,f,,White,Not Hispanic or Latino,Married,Lowell,MA
+321798,female,1992-07-30,34,18-34,f,,White,Not Hispanic or Latino,Married,Taunton,MA
+321927,male,1944-02-10,82,80+,f,,White,Not Hispanic or Latino,Married,Quincy,MA
+322310,female,2002-01-01,24,18-34,f,,Black or African American,Not Hispanic or Latino,Never Married,Winthrop,MA
+322388,female,1974-03-31,52,50-64,f,,White,Not Hispanic or Latino,Married,Randolph,MA
+322599,female,1968-02-01,58,50-64,f,,White,Not Hispanic or Latino,Married,Chesterfield,MA
+322808,female,2001-10-11,25,18-34,f,,White,Not Hispanic or Latino,Never Married,Framingham,MA
+322897,female,1951-10-12,75,65-79,f,,White,Hispanic or Latino,Married,Southwick,MA
+323099,female,1968-12-25,57,50-64,f,,White,Not Hispanic or Latino,Widowed,Boston,MA
+323330,female,2000-10-20,26,18-34,f,,White,Not Hispanic or Latino,Never Married,Hopkinton,MA
+323542,male,2003-10-10,23,18-34,f,,Other,Not Hispanic or Latino,Never Married,Taunton,MA
+323651,female,1945-01-29,81,80+,f,,White,Not Hispanic or Latino,Married,Raynham,MA
+323897,female,1987-04-02,39,35-49,f,,White,Hispanic or Latino,Never Married,Newton,MA
+324040,female,1976-10-31,50,50-64,f,,White,Not Hispanic or Latino,Never Married,Marshfield,MA
+324085,female,1980-06-13,46,35-49,f,,White,Not Hispanic or Latino,Married,Haverhill,MA
+324966,female,2002-12-05,23,18-34,f,,White,Not Hispanic or Latino,Never Married,Fitchburg,MA
+325411,female,1970-12-15,55,50-64,f,,White,Hispanic or Latino,Married,Cambridge,MA
+325629,female,1961-09-10,65,65-79,f,,White,Not Hispanic or Latino,Married,Chicopee,MA
+325990,female,1960-06-01,66,65-79,f,,Black or African American,Not Hispanic or Latino,Divorced,Boston,MA
+326215,female,1978-05-06,48,35-49,f,,White,Not Hispanic or Latino,Divorced,Springfield,MA
+326446,female,1948-12-20,77,65-79,f,,White,Not Hispanic or Latino,Married,North Andover,MA
+326807,female,1991-10-13,35,35-49,f,,White,Not Hispanic or Latino,Divorced,Chelsea,MA
+327079,female,1946-12-26,79,65-79,f,,White,Hispanic or Latino,Never Married,East Douglas,MA
+327256,male,1996-10-24,30,18-34,f,,White,Not Hispanic or Latino,Married,Amherst,MA
+327316,female,1937-04-27,89,80+,f,,Asian,Not Hispanic or Latino,Married,Bellingham,MA
+327588,female,1981-08-16,45,35-49,f,,White,Not Hispanic or Latino,Married,Hanson,MA
+327800,male,1974-06-04,52,50-64,f,,White,Not Hispanic or Latino,Married,Nahant,MA
+327970,male,1962-07-17,64,50-64,f,,White,Hispanic or Latino,Married,Peabody,MA
+328252,female,1971-03-08,55,50-64,f,,White,Not Hispanic or Latino,Widowed,Raynham,MA
+328410,male,1939-08-21,87,80+,f,,White,Not Hispanic or Latino,Married,East Bridgewater,MA
+329146,female,1994-09-20,32,18-34,f,,White,Not Hispanic or Latino,Married,Arlington,MA
+329246,female,1937-09-14,89,80+,f,,Black or African American,Not Hispanic or Latino,Widowed,Boston,MA
+329532,male,1959-05-15,67,65-79,f,,Black or African American,Not Hispanic or Latino,Divorced,Marshfield,MA
+329778,male,1995-03-12,31,18-34,f,,White,Not Hispanic or Latino,Married,Yarmouth,MA
+329855,female,1951-12-12,74,65-79,f,,White,Not Hispanic or Latino,Divorced,Northbridge,MA
+330639,male,1958-08-07,68,65-79,f,,White,Not Hispanic or Latino,Married,Malden,MA
+33129,male,1968-02-11,58,50-64,f,,White,Not Hispanic or Latino,Divorced,Westford,MA
+331484,male,1946-04-17,80,80+,f,,Black or African American,Not Hispanic or Latino,Divorced,Sharon,MA
+331775,male,1953-11-19,73,65-79,f,,White,Not Hispanic or Latino,Married,Peru,MA
+332517,male,1961-05-31,65,65-79,f,,White,Not Hispanic or Latino,Divorced,Fall River,MA
+332772,female,1974-06-16,52,50-64,f,,White,Not Hispanic or Latino,Never Married,Newburyport,MA
+332962,male,2005-01-15,21,18-34,f,,White,Not Hispanic or Latino,Never Married,Springfield,MA
+332993,female,1957-04-27,69,65-79,f,,White,Not Hispanic or Latino,Married,Framingham,MA
+333165,female,1959-09-05,67,65-79,f,,White,Not Hispanic or Latino,Married,Reading,MA
+335045,male,1952-05-05,74,65-79,f,,Asian,Not Hispanic or Latino,Divorced,Acton,MA
+33712,female,1978-05-22,48,35-49,f,,White,Not Hispanic or Latino,Divorced,Gardner,MA
+33892,male,1946-11-29,79,65-79,f,,White,Not Hispanic or Latino,Never Married,Westborough,MA
+339144,female,2005-08-14,21,18-34,f,,White,Not Hispanic or Latino,Never Married,Bourne,MA
+340863,female,2005-03-03,21,18-34,f,,White,Not Hispanic or Latino,Never Married,Adams,MA
+341052,female,2000-08-06,26,18-34,f,,White,Not Hispanic or Latino,Never Married,Newton,MA
+341226,female,1962-01-13,64,50-64,f,,White,Not Hispanic or Latino,Divorced,Medford,MA
+341408,male,1964-08-17,62,50-64,f,,Asian,Not Hispanic or Latino,Never Married,Quincy,MA
+341672,male,1995-01-23,31,18-34,f,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Married,Webster,MA
+341776,female,1970-10-30,56,50-64,f,,White,Not Hispanic or Latino,Married,Boston,MA
+342093,male,1995-01-15,31,18-34,f,,White,Not Hispanic or Latino,Never Married,Shrewsbury,MA
+342230,male,1993-07-22,33,18-34,f,,Black or African American,Not Hispanic or Latino,Married,Holland,MA
+342385,female,1976-05-12,50,50-64,f,,White,Not Hispanic or Latino,Married,Sutton,MA
+342738,female,1987-02-25,39,35-49,f,,White,Hispanic or Latino,Married,Marblehead,MA
+342953,female,1946-10-30,80,80+,f,,White,Not Hispanic or Latino,Married,Woburn,MA
+34368,male,1971-08-30,55,50-64,f,,White,Not Hispanic or Latino,Widowed,Boston,MA
+343759,female,1969-02-19,57,50-64,f,,White,Not Hispanic or Latino,Married,Franklin,MA
+34543,female,1966-11-04,60,50-64,f,,White,Not Hispanic or Latino,Widowed,Millis,MA
+34605,female,1964-12-26,61,50-64,f,,Black or African American,Hispanic or Latino,Married,Boston,MA
+347430,female,1956-11-13,70,65-79,f,,White,Not Hispanic or Latino,Married,Chicopee,MA
+347484,male,2000-05-08,26,18-34,f,,Other,Not Hispanic or Latino,Never Married,Braintree,MA
+349214,female,2008-08-08,18,18-34,f,,White,Not Hispanic or Latino,Never Married,Templeton,MA
+35063,female,1975-09-27,51,50-64,f,,White,Hispanic or Latino,Married,Chelsea,MA
+351165,female,1962-03-17,64,50-64,f,,White,Hispanic or Latino,Widowed,Holden,MA
+352238,female,1983-11-04,43,35-49,f,,White,Not Hispanic or Latino,Never Married,North Attleborough,MA
+352383,male,1996-08-11,30,18-34,f,,White,Hispanic or Latino,Married,Revere,MA
+352423,male,1993-01-21,33,18-34,f,,White,Hispanic or Latino,Married,Chelsea,MA
+352575,male,1958-12-14,67,65-79,f,,White,Not Hispanic or Latino,Married,Lowell,MA
+352871,male,2007-12-05,18,18-34,f,,White,Not Hispanic or Latino,Never Married,Lowell,MA
+352978,female,1959-07-30,67,65-79,f,,Black or African American,Not Hispanic or Latino,Married,Tewksbury,MA
+353305,female,1979-02-24,47,35-49,f,,White,Hispanic or Latino,Married,North Reading,MA
+353552,female,1966-07-14,60,50-64,f,,White,Not Hispanic or Latino,Divorced,Weymouth,MA
+353715,female,2001-08-30,25,18-34,f,,Asian,Not Hispanic or Latino,Never Married,Boston,MA
+353827,female,2000-10-08,26,18-34,f,,White,Not Hispanic or Latino,Never Married,Fitchburg,MA
+35384,female,2003-09-07,23,18-34,f,,White,Not Hispanic or Latino,Never Married,Milford,MA
+353925,female,1966-03-11,60,50-64,f,,White,Not Hispanic or Latino,Divorced,Richmond,MA
+354032,female,2008-11-20,18,18-34,f,,White,Not Hispanic or Latino,Never Married,Hampden,MA
+354139,female,1985-06-22,41,35-49,f,,White,Not Hispanic or Latino,Married,Falmouth,MA
+354319,female,1962-07-16,64,50-64,f,,Black or African American,Not Hispanic or Latino,Divorced,Springfield,MA
+354505,male,1979-08-20,47,35-49,f,,White,Hispanic or Latino,Married,Lynn,MA
+354672,female,1994-07-16,32,18-34,f,,White,Hispanic or Latino,Married,Boston,MA
+354892,female,1976-10-14,50,50-64,f,,Black or African American,Hispanic or Latino,Widowed,Lowell,MA
+354896,female,1956-06-28,70,65-79,f,,White,Not Hispanic or Latino,Married,Gardner,MA
+35524,male,1963-05-04,63,50-64,f,,White,Hispanic or Latino,Married,Marblehead,MA
+355403,female,1948-07-28,78,65-79,f,,White,Hispanic or Latino,Widowed,Boston,MA
+355928,female,1978-09-11,48,35-49,f,,White,Not Hispanic or Latino,Married,Monterey,MA
+35754,female,1942-03-16,84,80+,f,,White,Not Hispanic or Latino,Married,Mendon,MA
+359993,female,1989-03-25,37,35-49,f,,Asian,Not Hispanic or Latino,Married,Somerville,MA
+360236,female,1978-01-06,48,35-49,f,,White,Not Hispanic or Latino,Married,Clinton,MA
+360693,male,1958-12-07,67,65-79,f,,White,Not Hispanic or Latino,Never Married,Everett,MA
+361375,male,1963-06-18,63,50-64,f,,White,Not Hispanic or Latino,Married,Springfield,MA
+362077,male,2003-06-16,23,18-34,f,,White,Hispanic or Latino,Never Married,Boston,MA
+36219,male,1957-04-15,69,65-79,f,,White,Not Hispanic or Latino,Married,Springfield,MA
+362264,male,1987-11-28,38,35-49,f,,White,Not Hispanic or Latino,Married,Weymouth,MA
+362406,male,1989-12-17,36,35-49,f,,White,Not Hispanic or Latino,Married,Agawam,MA
+362545,female,1963-07-04,63,50-64,f,,White,Not Hispanic or Latino,Married,Pittsfield,MA
+362811,male,1991-10-27,35,35-49,f,,White,Not Hispanic or Latino,Never Married,Lawrence,MA
+362912,female,1950-01-22,76,65-79,f,,Asian,Not Hispanic or Latino,Married,Chesterfield,MA
+363164,female,2008-02-09,18,18-34,f,,White,Not Hispanic or Latino,Never Married,South Hadley,MA
+363379,female,1974-12-07,51,50-64,f,,White,Not Hispanic or Latino,Married,Springfield,MA
+363481,female,1988-02-13,38,35-49,f,,White,Not Hispanic or Latino,Married,Boston,MA
+36386,female,1943-01-31,83,80+,f,,White,Not Hispanic or Latino,Married,Wakefield,MA
+363911,female,1944-10-21,82,80+,f,,White,Not Hispanic or Latino,Married,Methuen,MA
+364291,male,1942-08-18,84,80+,f,,Asian,Not Hispanic or Latino,Married,Needham,MA
+364550,male,1952-12-02,73,65-79,f,,White,Not Hispanic or Latino,Never Married,Brockton,MA
+364735,male,1982-04-29,44,35-49,f,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Married,Brockton,MA
+365608,female,1962-10-01,64,50-64,f,,Other,Not Hispanic or Latino,Married,Norwood,MA
+365963,female,1995-12-31,30,18-34,f,,White,Not Hispanic or Latino,Married,Cheshire,MA
+366183,male,1940-09-10,86,80+,f,,Asian,Not Hispanic or Latino,Married,Revere,MA
+366755,male,1974-06-20,52,50-64,f,,White,Not Hispanic or Latino,Married,Natick,MA
+366939,male,1945-04-14,81,80+,f,,White,Not Hispanic or Latino,Never Married,Quincy,MA
+367354,female,2000-02-27,26,18-34,f,,White,Not Hispanic or Latino,Never Married,Lexington,MA
+367402,male,2004-02-10,22,18-34,f,,White,Hispanic or Latino,Never Married,Hampden,MA
+367582,female,1980-04-01,46,35-49,f,,White,Not Hispanic or Latino,Never Married,Holbrook,MA
+367672,female,1944-03-13,82,80+,f,,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+368108,female,1969-11-02,57,50-64,f,,White,Not Hispanic or Latino,Divorced,Bridgewater,MA
+368590,female,1950-01-09,76,65-79,f,,White,Hispanic or Latino,Married,Danvers,MA
+370878,female,1959-11-02,67,65-79,f,,White,Hispanic or Latino,Divorced,Methuen,MA
+371110,female,1969-06-23,57,50-64,f,,White,Not Hispanic or Latino,Never Married,Cohasset,MA
+371245,female,1965-09-08,61,50-64,f,,White,Not Hispanic or Latino,Divorced,Fall River,MA
+371475,female,1955-01-04,71,65-79,f,,White,Not Hispanic or Latino,Married,Winchester,MA
+371664,female,2007-01-21,19,18-34,f,,White,Not Hispanic or Latino,Never Married,Peabody,MA
+371892,male,1978-10-14,48,35-49,f,,White,Not Hispanic or Latino,Married,Melrose,MA
+371929,female,1938-02-22,88,80+,f,,White,Not Hispanic or Latino,Married,Millville,MA
+372257,female,1946-09-18,80,80+,f,,White,Not Hispanic or Latino,Never Married,Marblehead,MA
+372988,male,1957-09-27,69,65-79,f,,White,Not Hispanic or Latino,Never Married,Billerica,MA
+373298,male,1999-06-06,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Andover,MA
+373326,female,1965-04-16,61,50-64,f,,White,Not Hispanic or Latino,Married,Lowell,MA
+374003,female,2001-04-16,25,18-34,f,,Black or African American,Not Hispanic or Latino,Never Married,Somerville,MA
+374126,male,1967-01-29,59,50-64,f,,White,Not Hispanic or Latino,Married,Stow,MA
+374274,male,1988-08-14,38,35-49,f,,White,Not Hispanic or Latino,Married,Amherst,MA
+374406,female,1967-06-05,59,50-64,f,,Asian,Not Hispanic or Latino,Married,Boston,MA
+374646,male,1953-12-11,72,65-79,f,,White,Not Hispanic or Latino,Divorced,Hanover,MA
+375015,male,2003-09-26,23,18-34,f,,Other,Not Hispanic or Latino,Never Married,Lynn,MA
+375098,male,1949-11-28,76,65-79,f,,Asian,Not Hispanic or Latino,Divorced,Townsend,MA
+375313,male,1952-02-28,74,65-79,f,,Black or African American,Not Hispanic or Latino,Married,Waltham,MA
+375315,female,1954-02-10,72,65-79,f,,Asian,Not Hispanic or Latino,Married,Quincy,MA
+376000,male,1993-07-05,33,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+378414,female,1980-12-30,45,35-49,f,,White,Not Hispanic or Latino,Never Married,Canton,MA
+378970,female,1992-11-02,34,18-34,f,,White,Not Hispanic or Latino,Married,Lowell,MA
+379384,male,2006-04-17,20,18-34,f,,White,Not Hispanic or Latino,Never Married,Randolph,MA
+379584,male,1959-08-16,67,65-79,f,,Asian,Not Hispanic or Latino,Married,Weston,MA
+379735,male,1979-12-12,46,35-49,f,,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+379800,male,1994-01-29,32,18-34,f,,White,Not Hispanic or Latino,Never Married,Somerville,MA
+379853,male,1990-05-01,36,35-49,f,,White,Not Hispanic or Latino,Never Married,Dudley,MA
+380039,male,1987-02-28,39,35-49,f,,White,Not Hispanic or Latino,Married,Lenox,MA
+380072,female,1995-12-01,30,18-34,f,,White,Hispanic or Latino,Married,Boston,MA
+380388,male,1967-10-26,59,50-64,f,,White,Not Hispanic or Latino,Married,Wakefield,MA
+380563,male,1966-08-14,60,50-64,f,,White,Not Hispanic or Latino,Divorced,Tewksbury,MA
+380827,male,1993-12-11,32,18-34,f,,Asian,Hispanic or Latino,Married,Boston,MA
+380905,female,1951-06-17,75,65-79,f,,White,Hispanic or Latino,Divorced,Shrewsbury,MA
+38105,female,1998-03-20,28,18-34,f,,Asian,Not Hispanic or Latino,Never Married,Arlington,MA
+381160,male,1970-08-24,56,50-64,f,,White,Not Hispanic or Latino,Never Married,Shrewsbury,MA
+381396,male,1986-06-27,40,35-49,f,,Other,Not Hispanic or Latino,Married,Mansfield,MA
+381547,female,1975-05-19,51,50-64,f,,White,Not Hispanic or Latino,Married,Granby,MA
+381668,female,1963-08-21,63,50-64,f,,White,Not Hispanic or Latino,Never Married,Easton,MA
+381897,female,2007-07-27,19,18-34,f,,White,Not Hispanic or Latino,Never Married,Shrewsbury,MA
+381953,female,1990-04-14,36,35-49,f,,White,Not Hispanic or Latino,Married,Middleborough,MA
+382382,female,1984-10-05,42,35-49,f,,White,Not Hispanic or Latino,Married,Burlington,MA
+382608,female,1981-11-17,45,35-49,f,,White,Not Hispanic or Latino,Married,Carver,MA
+382769,female,1960-01-08,66,65-79,f,,White,Not Hispanic or Latino,Married,Ashby,MA
+38280,male,1969-04-13,57,50-64,f,,White,Hispanic or Latino,Divorced,Ludlow,MA
+383079,male,1953-05-06,73,65-79,f,,Black or African American,Not Hispanic or Latino,Widowed,Arlington,MA
+383234,male,1949-06-27,77,65-79,f,,White,Not Hispanic or Latino,Married,North Amherst,MA
+383487,male,1942-05-07,84,80+,f,,White,Hispanic or Latino,Married,Revere,MA
+383697,female,1949-10-25,77,65-79,f,,White,Not Hispanic or Latino,Never Married,Northampton,MA
+383882,male,1970-10-11,56,50-64,f,,White,Not Hispanic or Latino,Married,Ayer,MA
+384232,male,1938-07-18,88,80+,f,,Asian,Not Hispanic or Latino,Never Married,Andover,MA
+384512,female,1988-08-03,38,35-49,f,,White,Not Hispanic or Latino,Divorced,Winchendon,MA
+384570,female,1969-07-27,57,50-64,f,,White,Not Hispanic or Latino,Never Married,Mattapoisett,MA
+385452,male,2006-03-27,20,18-34,f,,White,Not Hispanic or Latino,Never Married,Canton,MA
+385566,female,1957-09-18,69,65-79,f,,White,Not Hispanic or Latino,Never Married,Abington,MA
+385804,female,1999-03-21,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Peabody,MA
+385856,female,1996-09-16,30,18-34,f,,White,Not Hispanic or Latino,Married,Gardner,MA
+386010,male,1980-09-29,46,35-49,f,,White,Not Hispanic or Latino,Married,Milford,MA
+386013,female,1985-03-03,41,35-49,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+386362,male,1992-05-12,34,18-34,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+386495,female,1968-08-09,58,50-64,f,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Married,Needham,MA
+38672,male,1995-09-24,31,18-34,f,,White,Not Hispanic or Latino,Married,Milford,MA
+386745,female,2007-08-13,19,18-34,f,,White,Not Hispanic or Latino,Never Married,Auburn,MA
+38694,male,1961-03-30,65,65-79,f,,White,Hispanic or Latino,Married,Sterling,MA
+387013,female,1976-12-08,49,35-49,f,,White,Not Hispanic or Latino,Divorced,Arlington,MA
+387018,male,1991-07-06,35,35-49,f,,White,Hispanic or Latino,Never Married,Agawam,MA
+387287,male,1985-10-25,41,35-49,f,,White,Not Hispanic or Latino,Never Married,Everett,MA
+387312,male,1979-12-01,46,35-49,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+387624,female,1949-05-30,77,65-79,f,,White,Not Hispanic or Latino,Never Married,Dartmouth,MA
+387872,female,1977-07-29,49,35-49,f,,White,Not Hispanic or Latino,Never Married,Cambridge,MA
+38849,male,1990-06-12,36,35-49,f,,White,Not Hispanic or Latino,Married,Boston,MA
+388705,male,1939-10-29,87,80+,f,,White,Not Hispanic or Latino,Widowed,Somerville,MA
+38892,male,1968-09-07,58,50-64,f,,White,Not Hispanic or Latino,Divorced,Medford,MA
+389367,male,1937-11-13,89,80+,f,,White,Not Hispanic or Latino,Married,Boston,MA
+389698,male,1984-08-14,42,35-49,f,,White,Hispanic or Latino,Married,Adams,MA
+389816,male,1976-08-18,50,50-64,f,,White,Not Hispanic or Latino,Married,Winthrop,MA
+390066,female,1937-12-18,88,80+,f,,White,Not Hispanic or Latino,Married,Boston,MA
+390202,female,1993-01-05,33,18-34,f,,White,Not Hispanic or Latino,Married,New Bedford,MA
+393495,male,1966-06-13,60,50-64,f,,Asian,Not Hispanic or Latino,Widowed,North Reading,MA
+39453,male,1938-02-05,88,80+,f,,White,Not Hispanic or Latino,Never Married,Pembroke,MA
+394699,male,1942-08-19,84,80+,f,,White,Not Hispanic or Latino,Married,Wilmington,MA
+395181,female,1950-08-17,76,65-79,f,,Black or African American,Not Hispanic or Latino,Never Married,Whitinsville,MA
+395595,female,1947-03-07,79,65-79,f,,Black or African American,Not Hispanic or Latino,Married,Chelsea,MA
+396909,male,1966-02-23,60,50-64,f,,White,Not Hispanic or Latino,Married,Sterling,MA
+398880,female,1982-10-24,44,35-49,f,,White,Not Hispanic or Latino,Married,Framingham,MA
+399215,female,1937-09-04,89,80+,f,,White,Not Hispanic or Latino,Married,Rockport,MA
+399458,female,1959-03-08,67,65-79,f,,Asian,Not Hispanic or Latino,Divorced,Westwood,MA
+399808,female,2004-12-22,21,18-34,f,,Black or African American,Hispanic or Latino,Never Married,Norfolk,MA
+399824,male,1964-12-05,61,50-64,f,,White,Not Hispanic or Latino,Divorced,Clinton,MA
+400216,male,1943-03-03,83,80+,f,,White,Not Hispanic or Latino,Divorced,Medway,MA
+400674,male,1974-01-22,52,50-64,f,,White,Not Hispanic or Latino,Married,Winchendon,MA
+400814,male,1940-10-08,86,80+,f,,Asian,Not Hispanic or Latino,Married,Boston,MA
+401251,male,1995-10-17,31,18-34,f,,Asian,Hispanic or Latino,Married,Quincy,MA
+402120,male,1956-09-30,70,65-79,f,,White,Hispanic or Latino,Married,Agawam,MA
+402457,male,1971-05-17,55,50-64,f,,White,Not Hispanic or Latino,Married,Teaticket,MA
+402574,male,1990-12-06,35,35-49,f,,White,Not Hispanic or Latino,Married,Charlton,MA
+402771,female,1937-05-04,89,80+,f,,White,Not Hispanic or Latino,Married,Lowell,MA
+40282,male,1986-06-18,40,35-49,f,,White,Not Hispanic or Latino,Never Married,Williamstown,MA
+403093,female,1963-10-15,63,50-64,f,,White,Not Hispanic or Latino,Never Married,Haverhill,MA
+403222,female,1999-09-17,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Quincy,MA
+403374,male,1942-10-02,84,80+,f,,White,Not Hispanic or Latino,Married,Brockton,MA
+403769,male,1957-11-04,69,65-79,f,,White,Not Hispanic or Latino,Never Married,Cambridge,MA
+403961,male,1965-04-18,61,50-64,f,,White,Not Hispanic or Latino,Divorced,Lynn,MA
+404127,male,1951-06-01,75,65-79,f,,White,Not Hispanic or Latino,Married,Whitman,MA
+40432,male,1943-08-19,83,80+,f,,White,Not Hispanic or Latino,Married,Hancock,MA
+404485,female,1971-01-01,55,50-64,f,,White,Not Hispanic or Latino,Never Married,Brockton,MA
+404710,female,1981-04-10,45,35-49,f,,White,Not Hispanic or Latino,Never Married,Springfield,MA
+404868,female,1962-02-10,64,50-64,f,,White,Not Hispanic or Latino,Never Married,Dartmouth,MA
+404948,female,1987-04-04,39,35-49,f,,White,Not Hispanic or Latino,Married,Chelmsford,MA
+405236,female,1993-06-25,33,18-34,f,,White,Not Hispanic or Latino,Married,Rockland,MA
+405280,female,1997-04-11,29,18-34,f,,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+405391,male,1983-01-15,43,35-49,f,,White,Not Hispanic or Latino,Married,Rowley,MA
+405400,male,2005-10-15,21,18-34,f,,White,Not Hispanic or Latino,Never Married,Chelsea,MA
+405550,male,1985-09-24,41,35-49,f,,White,Not Hispanic or Latino,Married,Billerica,MA
+405717,female,1969-01-11,57,50-64,f,,Other,Not Hispanic or Latino,Married,Harwich,MA
+405928,female,1986-08-13,40,35-49,f,,White,Not Hispanic or Latino,Married,Brockton,MA
+406082,male,1993-08-20,33,18-34,f,,White,Not Hispanic or Latino,Married,Dudley,MA
+406186,male,1940-01-14,86,80+,f,,White,Not Hispanic or Latino,Never Married,Methuen,MA
+40645,male,1998-07-04,28,18-34,f,,White,Hispanic or Latino,Married,Southbridge,MA
+40759,female,1942-11-01,84,80+,f,,White,Hispanic or Latino,Married,Boston,MA
+40924,male,1997-07-05,29,18-34,f,,White,Not Hispanic or Latino,Married,Salem,MA
+410082,male,1950-09-22,76,65-79,f,,White,Not Hispanic or Latino,Married,Springfield,MA
+410518,male,2008-06-29,18,18-34,f,,White,Not Hispanic or Latino,Never Married,Reading,MA
+411278,male,1993-11-20,33,18-34,f,,White,Not Hispanic or Latino,Never Married,Cohasset,MA
+412394,male,1962-02-13,64,50-64,f,,White,Not Hispanic or Latino,Divorced,Goshen,MA
+41253,male,1970-11-20,56,50-64,f,,White,Not Hispanic or Latino,Married,Beverly,MA
+412653,male,1940-02-10,86,80+,f,,White,Not Hispanic or Latino,Never Married,Walpole,MA
+413211,female,2004-03-09,22,18-34,f,,White,Not Hispanic or Latino,Never Married,Ipswich,MA
+413531,female,1957-09-06,67,65-79,t,2025-09-05 20:33:55+00,White,Not Hispanic or Latino,Married,Rehoboth,MA
+41419,male,1973-02-08,53,50-64,f,,White,Not Hispanic or Latino,Married,Barnstable,MA
+415219,female,1944-10-18,49,35-49,t,1994-07-13 01:26:30+00,White,Not Hispanic or Latino,Married,Leominster,MA
+415413,male,1965-02-01,53,50-64,t,2018-07-17 21:01:42+00,White,Not Hispanic or Latino,Married,Agawam,MA
+415613,male,2008-01-02,0,0-17,t,2008-12-19 19:11:53+00,White,Not Hispanic or Latino,Never Married,New Bedford,MA
+41628,female,1963-02-07,63,50-64,f,,White,Not Hispanic or Latino,Never Married,Taunton,MA
+416429,female,1950-08-18,74,65-79,t,2024-08-26 03:58:16+00,White,Not Hispanic or Latino,Widowed,Malden,MA
+41731,female,1973-09-14,53,50-64,f,,White,Hispanic or Latino,Divorced,Ludlow,MA
+419876,female,1982-06-06,35,35-49,t,2018-03-23 04:35:08+00,White,Hispanic or Latino,Married,Swampscott,MA
+420105,female,1946-02-06,77,65-79,t,2023-02-23 11:57:07+00,White,Not Hispanic or Latino,Divorced,Weymouth,MA
+420369,male,1972-07-12,53,50-64,t,2026-06-05 18:39:20+00,White,Not Hispanic or Latino,Married,Barnstable,MA
+42042,female,1953-11-09,73,65-79,f,,White,Not Hispanic or Latino,Divorced,Ipswich,MA
+420741,female,1991-11-30,4,0-17,t,1996-03-09 23:19:25+00,White,Not Hispanic or Latino,Never Married,Manchester-by-the-Sea,MA
+420876,male,1982-10-08,17,0-17,t,2000-05-05 01:10:50+00,White,Not Hispanic or Latino,Never Married,Billerica,MA
+420991,female,1945-11-10,68,65-79,t,2013-11-13 11:13:03+00,White,Hispanic or Latino,Married,North Andover,MA
+421367,male,1997-02-27,2,0-17,t,1999-04-02 21:14:03+00,White,Not Hispanic or Latino,Never Married,Sudbury,MA
+421571,female,1951-05-22,68,65-79,t,2020-01-20 06:24:04+00,White,Not Hispanic or Latino,Married,Springfield,MA
+421691,male,1955-07-23,68,65-79,t,2023-12-26 14:18:19+00,White,Not Hispanic or Latino,Widowed,Stoneham,MA
+422343,female,1987-04-25,1,0-17,t,1988-07-12 06:12:58+00,White,Not Hispanic or Latino,Never Married,Ashfield,MA
+422514,male,2006-07-14,6,0-17,t,2013-02-06 02:21:23+00,White,Not Hispanic or Latino,Never Married,Danvers,MA
+422656,male,1961-10-24,53,50-64,t,2015-03-12 16:31:59+00,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+423444,female,2005-04-28,4,0-17,t,2009-06-11 17:44:41+00,White,Not Hispanic or Latino,Never Married,Fitchburg,MA
+42649,female,1996-03-22,30,18-34,f,,White,Not Hispanic or Latino,Married,Norwood,MA
+426722,female,1978-03-01,36,35-49,t,2014-10-30 17:51:22+00,White,Not Hispanic or Latino,Divorced,Lowell,MA
+427015,female,1964-07-08,59,50-64,t,2023-11-17 10:40:37+00,White,Not Hispanic or Latino,Married,Barnstable,MA
+42768,male,1949-11-28,76,65-79,f,,White,Not Hispanic or Latino,Married,Westfield,MA
+427992,female,2005-07-10,14,0-17,t,2019-09-11 14:54:00+00,Black or African American,Not Hispanic or Latino,Never Married,Boston,MA
+428243,male,1961-12-31,55,50-64,t,2017-08-30 04:27:47+00,White,Not Hispanic or Latino,Married,Holbrook,MA
+429216,male,1957-10-31,60,50-64,t,2018-04-30 20:45:13+00,White,Not Hispanic or Latino,Divorced,Peabody,MA
+429972,male,1955-06-16,64,50-64,t,2020-06-05 00:14:09+00,White,Not Hispanic or Latino,Divorced,Somerville,MA
+430537,female,1983-07-08,23,18-34,t,2007-02-16 00:25:27+00,White,Not Hispanic or Latino,Never Married,Boston,MA
+43180,female,1945-08-05,81,80+,f,,White,Not Hispanic or Latino,Never Married,Lowell,MA
+432687,male,1976-02-08,42,35-49,t,2018-02-28 19:20:14+00,White,Not Hispanic or Latino,Married,Brookline,MA
+433613,female,1978-02-25,38,35-49,t,2016-11-28 07:53:17+00,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+435002,female,1939-05-20,58,50-64,t,1997-09-22 16:42:49+00,White,Not Hispanic or Latino,Married,Watertown,MA
+436916,female,1946-05-13,69,65-79,t,2015-09-24 02:30:19+00,White,Hispanic or Latino,Married,Spencer,MA
+437275,male,2005-10-16,12,0-17,t,2017-11-07 14:04:28+00,White,Not Hispanic or Latino,Never Married,Boston,MA
+437407,male,1990-04-23,26,18-34,t,2016-05-31 10:49:57+00,White,Not Hispanic or Latino,Never Married,New Seabury,MA
+437465,female,1937-08-01,45,35-49,t,1983-03-05 01:42:08+00,White,Not Hispanic or Latino,Married,Danvers,MA
+437696,female,1998-12-12,23,18-34,t,2022-04-08 08:55:59+00,White,Not Hispanic or Latino,Never Married,Ashland,MA
+437926,male,1938-11-24,86,80+,t,2025-06-08 18:11:37+00,White,Not Hispanic or Latino,Married,East Bridgewater,MA
+438787,female,1970-02-01,41,35-49,t,2011-03-11 02:46:46+00,Asian,Not Hispanic or Latino,Divorced,Quincy,MA
+440166,female,1955-09-11,69,65-79,t,2025-07-14 22:33:45+00,White,Not Hispanic or Latino,Divorced,Wareham,MA
+440381,female,1995-04-19,5,0-17,t,2001-02-10 16:03:59+00,White,Not Hispanic or Latino,Never Married,Dalton,MA
+442941,female,1957-05-12,63,50-64,t,2021-03-27 15:15:12+00,Asian,Hispanic or Latino,Never Married,Wellesley,MA
+443257,female,1998-06-11,25,18-34,t,2023-07-15 21:45:42+00,White,Not Hispanic or Latino,Never Married,Haverhill,MA
+443434,male,1970-06-15,43,35-49,t,2013-12-23 05:33:54+00,White,Not Hispanic or Latino,Married,Lawrence,MA
+443652,male,1957-11-25,60,50-64,t,2018-04-12 03:39:10+00,White,Not Hispanic or Latino,Never Married,Lynn,MA
+444960,female,1981-12-15,15,0-17,t,1997-06-13 01:34:06+00,White,Not Hispanic or Latino,Never Married,Mansfield,MA
+445059,male,1987-10-05,15,0-17,t,2003-03-07 17:59:48+00,White,Not Hispanic or Latino,Never Married,Acton,MA
+445235,female,1968-10-04,51,50-64,t,2020-07-22 01:10:08+00,White,Not Hispanic or Latino,Married,Gardner,MA
+446857,female,1989-04-16,31,18-34,t,2020-12-10 16:15:24+00,White,Not Hispanic or Latino,Married,Woburn,MA
+447009,female,1982-07-24,42,35-49,t,2024-08-28 06:22:42+00,Black or African American,Not Hispanic or Latino,Married,Revere,MA
+447453,female,2004-04-01,3,0-17,t,2008-02-04 14:36:43+00,White,Hispanic or Latino,Never Married,Boston,MA
+447631,male,1955-09-22,69,65-79,t,2024-12-01 23:07:35+00,White,Hispanic or Latino,Married,Newburyport,MA
+448030,female,1965-06-17,58,50-64,t,2024-01-09 22:44:37+00,Asian,Not Hispanic or Latino,Widowed,Lynnfield,MA
+448244,male,1947-06-16,49,35-49,t,1997-01-02 21:05:46+00,White,Not Hispanic or Latino,Married,Salem,MA
+448427,female,1984-03-09,40,35-49,t,2024-04-08 21:17:19+00,White,Not Hispanic or Latino,Married,Dunstable,MA
+449304,female,1980-06-09,3,0-17,t,1983-12-02 12:52:40+00,White,Not Hispanic or Latino,Never Married,Sharon,MA
+449486,male,2005-09-29,1,0-17,t,2007-04-21 16:40:13+00,White,Not Hispanic or Latino,Never Married,Methuen,MA
+449724,male,1944-04-12,71,65-79,t,2015-08-25 22:17:56+00,White,Not Hispanic or Latino,Married,Bellingham,MA
+450128,male,1997-10-08,16,0-17,t,2014-03-03 10:56:58+00,Black or African American,Not Hispanic or Latino,Never Married,Boston,MA
+450238,female,2003-08-06,23,18-34,t,2026-10-31 06:22:25+00,Asian,Not Hispanic or Latino,Never Married,Brockton,MA
+450633,female,1975-06-25,7,0-17,t,1982-07-31 08:37:15+00,White,Not Hispanic or Latino,Never Married,Saugus,MA
+450744,male,1940-06-25,0,0-17,t,1940-07-02 08:39:58+00,White,Not Hispanic or Latino,Never Married,Boston,MA
+450791,female,1970-12-31,52,50-64,t,2023-04-27 08:53:04+00,White,Hispanic or Latino,Never Married,Boston,MA
+451102,male,1992-09-30,15,0-17,t,2008-09-09 07:13:18+00,White,Not Hispanic or Latino,Never Married,Acton,MA
+451395,male,1995-11-10,27,18-34,t,2023-10-23 07:36:32+00,Black or African American,Not Hispanic or Latino,Never Married,Middleborough Center,MA
+451494,female,1937-03-29,3,0-17,t,1941-02-02 23:23:09+00,White,Not Hispanic or Latino,Never Married,Lynn,MA
+451621,male,1954-08-26,56,50-64,t,2011-04-29 00:37:24+00,Other,Hispanic or Latino,Married,Watertown,MA
+451751,male,1970-03-18,52,50-64,t,2023-01-05 08:16:51+00,Black or African American,Hispanic or Latino,Married,Boston,MA
+45185,female,1951-12-23,74,65-79,f,,White,Not Hispanic or Latino,Married,Mansfield,MA
+452124,male,1952-04-13,58,50-64,t,2010-07-08 05:16:08+00,White,Not Hispanic or Latino,Widowed,Plymouth,MA
+452309,male,1966-06-10,47,35-49,t,2014-04-29 00:36:59+00,White,Not Hispanic or Latino,Married,Boston,MA
+452542,male,1939-02-06,53,50-64,t,1992-09-16 00:55:28+00,White,Not Hispanic or Latino,Married,Dedham,MA
+452780,female,1994-08-26,31,18-34,t,2025-12-24 00:54:29+00,White,Not Hispanic or Latino,Never Married,Winchester,MA
+453020,male,1996-11-23,18,18-34,t,2015-03-09 14:19:04+00,White,Hispanic or Latino,Never Married,Lawrence,MA
+453186,female,1949-06-21,68,65-79,t,2018-02-19 04:54:05+00,White,Not Hispanic or Latino,Divorced,Weymouth,MA
+453511,male,1998-08-21,1,0-17,t,2000-06-06 14:08:19+00,White,Not Hispanic or Latino,Never Married,Boston,MA
+453905,female,1990-09-13,7,0-17,t,1997-12-04 22:42:23+00,White,Not Hispanic or Latino,Never Married,Auburn,MA
+453986,male,1953-10-04,65,65-79,t,2019-09-01 20:38:35+00,White,Not Hispanic or Latino,Married,Northborough,MA
+454330,female,1975-09-22,32,18-34,t,2007-11-22 12:35:42+00,White,Not Hispanic or Latino,Never Married,Worcester,MA
+454648,female,1951-05-10,50,50-64,t,2001-08-29 09:30:19+00,White,Not Hispanic or Latino,Married,Worcester,MA
+454938,female,1989-10-04,8,0-17,t,1998-03-23 23:08:14+00,White,Not Hispanic or Latino,Never Married,Amherst,MA
+455051,male,2003-03-07,21,18-34,t,2024-10-13 07:19:16+00,White,Not Hispanic or Latino,Never Married,Haverhill,MA
+455158,female,1986-03-28,20,18-34,t,2006-05-16 13:17:05+00,White,Not Hispanic or Latino,Never Married,Taunton,MA
+455516,female,1973-07-13,46,35-49,t,2019-12-04 20:00:51+00,White,Not Hispanic or Latino,Married,Cohasset,MA
+456036,female,1991-04-23,1,0-17,t,1992-04-27 07:25:44+00,White,Not Hispanic or Latino,Never Married,Groveland,MA
+456058,male,1974-01-04,45,35-49,t,2019-10-07 01:22:28+00,White,Not Hispanic or Latino,Never Married,Springfield,MA
+456367,male,1958-08-29,59,50-64,t,2018-01-12 19:56:43+00,White,Not Hispanic or Latino,Married,South Yarmouth,MA
+457344,female,1949-01-30,47,35-49,t,1996-05-25 22:25:52+00,White,Not Hispanic or Latino,Divorced,Boston,MA
+45741,female,2007-06-16,19,18-34,f,,Asian,Not Hispanic or Latino,Never Married,Groton,MA
+459934,female,1948-06-27,70,65-79,t,2019-05-24 04:43:02+00,White,Hispanic or Latino,Divorced,Lawrence,MA
+46024,male,1998-06-03,28,18-34,f,,White,Not Hispanic or Latino,Married,North Amherst,MA
+460645,female,1968-11-13,50,50-64,t,2019-06-12 06:28:12+00,Black or African American,Hispanic or Latino,Divorced,Boston,MA
+46184,male,1942-02-10,84,80+,f,,White,Not Hispanic or Latino,Married,Wakefield,MA
+462152,female,1984-05-14,32,18-34,t,2016-06-10 21:59:46+00,White,Not Hispanic or Latino,Married,Mashpee,MA
+462319,female,1986-02-07,4,0-17,t,1990-10-16 19:06:49+00,White,Not Hispanic or Latino,Never Married,Woburn,MA
+462560,female,1969-06-21,54,50-64,t,2024-04-02 12:00:43+00,White,Not Hispanic or Latino,Never Married,Blackstone,MA
+462784,male,1942-02-02,82,80+,t,2024-05-12 17:35:49+00,White,Not Hispanic or Latino,Divorced,Boston,MA
+462875,male,1970-11-19,50,50-64,t,2021-01-22 19:53:50+00,White,Not Hispanic or Latino,Married,Stoughton,MA
+46466,male,2007-02-25,19,18-34,f,,White,Not Hispanic or Latino,Never Married,Chicopee,MA
+46541,male,1980-09-09,46,35-49,f,,Other,Not Hispanic or Latino,Divorced,Boston,MA
+46602,male,1985-06-04,41,35-49,f,,White,Not Hispanic or Latino,Never Married,Billerica,MA
+467716,female,1962-04-01,61,50-64,t,2023-06-26 11:16:02+00,Asian,Not Hispanic or Latino,Married,Leominster,MA
+46985,female,1943-10-11,83,80+,f,,White,Not Hispanic or Latino,Married,Southborough,MA
+470399,female,1946-10-17,45,35-49,t,1992-01-15 04:04:34+00,White,Not Hispanic or Latino,Married,Framingham,MA
+470551,male,1965-06-23,54,50-64,t,2020-02-16 13:33:38+00,White,Not Hispanic or Latino,Never Married,Brockton,MA
+470724,male,1947-06-27,31,18-34,t,1979-06-03 06:38:11+00,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+471045,female,1938-10-24,83,80+,t,2022-09-27 19:35:32+00,White,Not Hispanic or Latino,Divorced,Boston,MA
+472089,female,1981-03-12,41,35-49,t,2022-07-13 19:36:56+00,White,Hispanic or Latino,Married,Chelsea,MA
+472340,female,1945-12-05,65,65-79,t,2011-04-04 11:30:55+00,White,Not Hispanic or Latino,Divorced,New Bedford,MA
+472628,female,1941-07-27,66,65-79,t,2008-02-04 02:44:11+00,White,Not Hispanic or Latino,Married,Haverhill,MA
+472897,female,1987-10-29,11,0-17,t,1999-08-11 23:27:47+00,White,Not Hispanic or Latino,Never Married,Woburn,MA
+473099,female,1968-11-03,54,50-64,t,2023-07-04 18:59:51+00,White,Not Hispanic or Latino,Married,Kingston,MA
+475352,male,1944-07-01,76,65-79,t,2021-01-04 19:47:28+00,Asian,Not Hispanic or Latino,Married,Boston,MA
+475901,male,1967-03-25,57,50-64,t,2024-06-18 13:44:56+00,White,Not Hispanic or Latino,Never Married,Boston,MA
+478321,female,1963-11-03,59,50-64,t,2023-01-22 15:37:36+00,White,Not Hispanic or Latino,Married,Smith Mills,MA
+4797,male,1993-06-20,33,18-34,f,,White,Not Hispanic or Latino,Married,Hudson,MA
+4798,male,1985-08-23,41,35-49,f,,White,Not Hispanic or Latino,Married,Tewksbury,MA
+480062,male,1948-04-17,72,65-79,t,2020-12-07 06:46:58+00,White,Not Hispanic or Latino,Married,Everett,MA
+4803,male,1980-02-01,46,35-49,f,,White,Not Hispanic or Latino,Married,Westfield,MA
+48034,female,1943-10-01,83,80+,f,,White,Hispanic or Latino,Married,Cambridge,MA
+480407,female,1950-09-06,63,50-64,t,2014-05-26 00:05:57+00,White,Not Hispanic or Latino,Never Married,Springfield,MA
+481251,female,1947-01-28,79,65-79,t,2026-04-15 04:22:04+00,White,Not Hispanic or Latino,Married,Swansea,MA
+4836,male,1977-05-18,49,35-49,f,,White,Not Hispanic or Latino,Married,Gardner,MA
+48404,female,1976-04-23,50,50-64,f,,White,Not Hispanic or Latino,Never Married,Weymouth,MA
+484479,female,1975-08-24,33,18-34,t,2009-06-07 00:01:18+00,White,Not Hispanic or Latino,Married,Attleboro,MA
+486129,female,2000-03-22,4,0-17,t,2004-05-13 17:01:27+00,White,Not Hispanic or Latino,Never Married,Dartmouth,MA
+486325,female,1957-12-29,18,18-34,t,1976-04-23 07:03:30+00,Asian,Not Hispanic or Latino,Never Married,Fall River,MA
+486488,female,1940-11-20,83,80+,t,2024-02-26 12:25:02+00,White,Hispanic or Latino,Married,Blackstone,MA
+48684,female,1977-11-26,48,35-49,f,,White,Not Hispanic or Latino,Married,Weymouth,MA
+486912,female,1984-02-23,39,35-49,t,2023-11-27 05:41:08+00,White,Hispanic or Latino,Never Married,Boston,MA
+487109,male,1947-08-21,66,65-79,t,2013-11-17 16:11:28+00,Black or African American,Not Hispanic or Latino,Married,Newburyport,MA
+48911,male,1949-11-16,77,65-79,f,,White,Not Hispanic or Latino,Married,Everett,MA
+489613,female,1962-08-13,61,50-64,t,2023-11-04 11:59:43+00,White,Not Hispanic or Latino,Never Married,Billerica,MA
+490561,female,1951-01-02,63,50-64,t,2014-08-25 08:27:38+00,White,Not Hispanic or Latino,Married,Becket,MA
+49309,male,1944-05-15,82,80+,f,,White,Not Hispanic or Latino,Married,Hamilton,MA
+495522,male,1989-06-07,18,18-34,t,2007-08-09 09:03:32+00,Black or African American,Not Hispanic or Latino,Never Married,Marion Center,MA
+495763,male,1982-06-25,31,18-34,t,2014-06-17 06:42:03+00,American Indian or Alaska Native,Not Hispanic or Latino,Married,Boston,MA
+495972,male,1980-01-11,13,0-17,t,1993-07-28 12:45:49+00,White,Not Hispanic or Latino,Never Married,Northampton,MA
+496222,male,1958-07-07,30,18-34,t,1989-06-22 05:11:08+00,White,Not Hispanic or Latino,Married,Peabody,MA
+496595,male,1977-05-01,41,35-49,t,2018-10-17 06:12:22+00,White,Not Hispanic or Latino,Married,Boston,MA
+496754,male,1950-03-26,54,50-64,t,2005-01-24 06:56:22+00,Asian,Not Hispanic or Latino,Married,Reading,MA
+496953,male,1943-08-10,68,65-79,t,2011-09-03 19:42:41+00,White,Not Hispanic or Latino,Never Married,Haverhill,MA
+49833,male,1941-07-29,85,80+,f,,White,Not Hispanic or Latino,Divorced,Seekonk,MA
+498512,female,1962-05-19,59,50-64,t,2021-08-31 06:28:56+00,White,Not Hispanic or Latino,Married,Boston,MA
+499120,male,1965-09-21,53,50-64,t,2019-02-10 00:11:05+00,Other,Not Hispanic or Latino,Married,Boston,MA
+499398,female,1937-05-06,63,50-64,t,2001-03-11 01:43:22+00,White,Hispanic or Latino,Divorced,Everett,MA
+50031,female,1970-10-28,56,50-64,f,,White,Hispanic or Latino,Divorced,Westfield,MA
+500360,male,2005-09-11,5,0-17,t,2010-10-30 11:04:40+00,Black or African American,Hispanic or Latino,Never Married,Holyoke,MA
+501196,male,1941-12-13,11,0-17,t,1953-10-06 05:36:05+00,White,Not Hispanic or Latino,Never Married,Cambridge,MA
+50204,female,1957-03-27,69,65-79,f,,White,Not Hispanic or Latino,Never Married,Lowell,MA
+502530,female,1997-11-23,2,0-17,t,1999-12-14 16:31:46+00,White,Not Hispanic or Latino,Never Married,Franklin,MA
+502782,female,1943-03-24,80,80+,t,2024-03-08 10:02:38+00,White,Not Hispanic or Latino,Never Married,Bedford,MA
+503170,female,1939-05-14,67,65-79,t,2006-05-21 21:27:29+00,White,Not Hispanic or Latino,Divorced,Chicopee,MA
+50337,male,1993-02-27,33,18-34,f,,White,Hispanic or Latino,Never Married,Worcester,MA
+504614,male,1939-01-04,85,80+,t,2024-01-25 14:10:12+00,White,Not Hispanic or Latino,Divorced,Bourne,MA
+504972,male,1962-09-10,59,50-64,t,2022-07-13 03:51:17+00,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+50508,male,1944-09-11,82,80+,f,,White,Hispanic or Latino,Married,Wrentham,MA
+507494,female,1978-08-21,20,18-34,t,1999-03-08 10:46:24+00,White,Hispanic or Latino,Never Married,Newburyport,MA
+50754,male,1983-11-10,43,35-49,f,,White,Hispanic or Latino,Married,Amesbury,MA
+507772,female,2008-03-28,11,0-17,t,2019-04-26 15:34:35+00,White,Not Hispanic or Latino,Never Married,Worcester,MA
+507783,female,2004-12-28,4,0-17,t,2009-04-14 14:00:59+00,White,Not Hispanic or Latino,Never Married,Williamsburg,MA
+510228,female,1956-12-16,34,18-34,t,1991-07-16 21:49:42+00,White,Not Hispanic or Latino,Married,Leominster,MA
+510433,female,1995-04-14,0,0-17,t,1996-03-29 09:19:54+00,White,Not Hispanic or Latino,Never Married,Boston,MA
+510600,male,1996-03-10,24,18-34,t,2020-06-16 11:33:34+00,White,Not Hispanic or Latino,Never Married,Hanover,MA
+510853,female,1980-04-23,46,35-49,t,2026-08-28 11:52:08+00,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+511113,female,1968-12-21,41,35-49,t,2010-10-10 03:41:39+00,White,Hispanic or Latino,Married,Chester,MA
+511394,male,1947-07-20,63,50-64,t,2011-05-22 23:37:51+00,White,Not Hispanic or Latino,Married,Winchendon,MA
+51315,male,1948-09-23,78,65-79,f,,White,Not Hispanic or Latino,Married,Shrewsbury,MA
+514941,female,1943-04-23,64,50-64,t,2008-02-24 03:47:38+00,White,Not Hispanic or Latino,Never Married,Melrose,MA
+515267,male,1980-12-14,18,18-34,t,1999-03-29 13:31:34+00,White,Not Hispanic or Latino,Never Married,Winthrop,MA
+515433,male,1993-04-06,7,0-17,t,2000-08-13 16:06:20+00,White,Not Hispanic or Latino,Never Married,Falmouth,MA
+515528,male,2006-03-21,19,18-34,t,2025-10-25 00:03:57+00,White,Not Hispanic or Latino,Never Married,Norfolk,MA
+515619,male,1954-08-21,45,35-49,t,1999-12-13 17:56:31+00,White,Not Hispanic or Latino,Married,Wellesley,MA
+515961,male,1969-02-10,49,35-49,t,2018-08-20 00:30:09+00,Asian,Not Hispanic or Latino,Divorced,Braintree,MA
+516215,male,1987-04-27,25,18-34,t,2012-10-04 10:51:35+00,Black or African American,Not Hispanic or Latino,Never Married,Huntington,MA
+516328,male,1938-09-21,76,65-79,t,2015-04-03 18:14:51+00,White,Not Hispanic or Latino,Never Married,Lynn,MA
+516661,female,1953-11-12,69,65-79,t,2023-06-08 20:38:00+00,White,Not Hispanic or Latino,Married,Brookline,MA
+517145,male,1977-08-04,48,35-49,t,2026-04-21 14:36:12+00,Black or African American,Not Hispanic or Latino,Divorced,Boston,MA
+51754,female,1949-05-18,77,65-79,f,,White,Not Hispanic or Latino,Never Married,West Concord,MA
+53014,male,1989-02-02,37,35-49,f,,White,Hispanic or Latino,Divorced,Lawrence,MA
+53060,female,1939-07-26,87,80+,f,,White,Not Hispanic or Latino,Married,Stoneham,MA
+53494,male,1942-05-17,84,80+,f,,White,Not Hispanic or Latino,Widowed,Weymouth,MA
+5365,male,1989-01-29,37,35-49,f,,White,Not Hispanic or Latino,Married,Springfield,MA
+53950,female,1948-08-25,78,65-79,f,,White,Not Hispanic or Latino,Married,Brockton,MA
+54215,male,1984-05-26,42,35-49,f,,White,Not Hispanic or Latino,Divorced,Springfield,MA
+54229,female,1941-12-17,84,80+,f,,White,Not Hispanic or Latino,Widowed,Westford,MA
+54676,male,2006-11-27,19,18-34,f,,White,Not Hispanic or Latino,Never Married,Taunton,MA
+54810,female,1945-03-31,81,80+,f,,White,Not Hispanic or Latino,Married,Greenfield,MA
+54960,female,1983-02-03,43,35-49,f,,White,Not Hispanic or Latino,Married,Bliss Corner,MA
+5525,female,1939-01-09,87,80+,f,,White,Not Hispanic or Latino,Married,Arlington,MA
+56137,female,1986-10-15,40,35-49,f,,White,Not Hispanic or Latino,Married,Melrose,MA
+57412,male,1943-01-26,83,80+,f,,White,Not Hispanic or Latino,Married,Worcester,MA
+5802,male,2002-05-02,24,18-34,f,,White,Hispanic or Latino,Never Married,Beverly,MA
+5817,male,1956-02-07,70,65-79,f,,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+58787,male,1946-07-09,80,80+,f,,White,Not Hispanic or Latino,Married,Quincy,MA
+59263,male,1989-10-29,37,35-49,f,,Black or African American,Not Hispanic or Latino,Married,Worcester,MA
+59525,male,2004-01-31,22,18-34,f,,White,Not Hispanic or Latino,Never Married,Rockland,MA
+59628,female,1968-12-13,57,50-64,f,,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+59892,male,1945-10-23,81,80+,f,,White,Not Hispanic or Latino,Married,Fall River,MA
+60465,female,1987-10-31,39,35-49,f,,Other,Not Hispanic or Latino,Married,Lunenburg,MA
+61042,female,1944-08-01,82,80+,f,,White,Hispanic or Latino,Never Married,Chicopee,MA
+6119,female,1996-05-24,30,18-34,f,,White,Hispanic or Latino,Never Married,Boston,MA
+61322,male,1977-11-28,48,35-49,f,,Asian,Not Hispanic or Latino,Married,Boston,MA
+61610,male,1960-04-19,66,65-79,f,,White,Not Hispanic or Latino,Widowed,Sheffield,MA
+61850,female,2008-04-24,18,18-34,f,,White,Not Hispanic or Latino,Never Married,Easthampton,MA
+61968,male,1953-06-07,73,65-79,f,,White,Not Hispanic or Latino,Widowed,Yarmouth Port,MA
+62013,female,1962-09-18,64,50-64,f,,White,Not Hispanic or Latino,Married,Boston,MA
+62696,male,2002-05-05,24,18-34,f,,White,Not Hispanic or Latino,Never Married,Mansfield,MA
+62719,male,1996-03-21,30,18-34,f,,White,Not Hispanic or Latino,Married,Boston,MA
+62826,male,2005-03-31,21,18-34,f,,White,Not Hispanic or Latino,Never Married,Winthrop,MA
+62921,male,1937-03-08,89,80+,f,,White,Not Hispanic or Latino,Married,Boston,MA
+63461,male,1956-01-08,70,65-79,f,,White,Not Hispanic or Latino,Married,Sandisfield,MA
+63579,female,1981-10-19,45,35-49,f,,White,Not Hispanic or Latino,Married,Leicester,MA
+63833,male,1999-09-18,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Malden,MA
+64036,female,1943-11-16,83,80+,f,,White,Not Hispanic or Latino,Divorced,East Falmouth,MA
+64392,male,1982-04-03,44,35-49,f,,Black or African American,Not Hispanic or Latino,Married,Dighton,MA
+64486,male,1993-01-02,33,18-34,f,,White,Not Hispanic or Latino,Married,Leominster,MA
+64664,male,1996-06-02,30,18-34,f,,Black or African American,Not Hispanic or Latino,Married,Boston,MA
+64772,female,1990-01-26,36,35-49,f,,Black or African American,Not Hispanic or Latino,Never Married,Boston,MA
+64826,male,1938-01-13,88,80+,f,,Black or African American,Not Hispanic or Latino,Married,Norwood,MA
+6517,female,1985-08-12,41,35-49,f,,White,Not Hispanic or Latino,Married,Merrimac,MA
+65328,female,2000-07-21,26,18-34,f,,White,Not Hispanic or Latino,Never Married,Peabody,MA
+65535,female,1950-08-04,76,65-79,f,,White,Not Hispanic or Latino,Married,Wareham,MA
+65871,male,2001-04-28,25,18-34,f,,Asian,Not Hispanic or Latino,Never Married,Arlington,MA
+65945,male,1988-01-01,38,35-49,f,,White,Not Hispanic or Latino,Married,Lowell,MA
+66013,male,1972-12-17,53,50-64,f,,White,Not Hispanic or Latino,Married,North Amherst,MA
+66207,male,1949-05-23,77,65-79,f,,White,Not Hispanic or Latino,Married,Waltham,MA
+66524,male,2006-03-17,20,18-34,f,,Native Hawaiian or Other Pacific Islander,Not Hispanic or Latino,Never Married,Springfield,MA
+66851,male,1988-09-01,38,35-49,f,,White,Not Hispanic or Latino,Never Married,Malden,MA
+66952,male,1942-09-24,84,80+,f,,White,Not Hispanic or Latino,Married,Boston,MA
+6696,female,1994-09-21,32,18-34,f,,White,Not Hispanic or Latino,Married,Shrewsbury,MA
+67327,male,2000-07-12,26,18-34,f,,Other,Not Hispanic or Latino,Never Married,Hatfield,MA
+67441,female,1980-06-02,46,35-49,f,,Asian,Not Hispanic or Latino,Never Married,Boston,MA
+67628,male,1975-10-21,51,50-64,f,,White,Not Hispanic or Latino,Married,Winchendon,MA
+67756,male,1950-11-15,76,65-79,f,,White,Not Hispanic or Latino,Married,Chatham,MA
+67941,female,1944-09-18,82,80+,f,,White,Not Hispanic or Latino,Married,Hudson,MA
+6806,female,2001-03-16,25,18-34,f,,White,Not Hispanic or Latino,Never Married,Attleboro,MA
+68266,male,1949-10-11,77,65-79,f,,White,Not Hispanic or Latino,Married,Springfield,MA
+68608,male,1952-09-29,74,65-79,f,,White,Hispanic or Latino,Never Married,Agawam,MA
+6874,male,1949-05-10,77,65-79,f,,White,Not Hispanic or Latino,Divorced,Dracut,MA
+68967,female,1974-03-29,52,50-64,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+69252,female,1952-07-28,74,65-79,f,,White,Not Hispanic or Latino,Married,Lawrence,MA
+69447,male,1943-01-28,83,80+,f,,White,Not Hispanic or Latino,Married,Wilbraham,MA
+69805,female,1951-11-03,75,65-79,f,,White,Not Hispanic or Latino,Married,Middleborough Center,MA
+69809,female,1987-03-04,39,35-49,f,,White,Not Hispanic or Latino,Never Married,Norton,MA
+70214,female,1963-08-30,63,50-64,f,,White,Not Hispanic or Latino,Married,Amherst Center,MA
+70406,female,1990-08-24,36,35-49,f,,White,Not Hispanic or Latino,Married,Westborough,MA
+70667,female,1973-07-24,53,50-64,f,,White,Not Hispanic or Latino,Never Married,Lowell,MA
+70875,female,1966-10-18,60,50-64,f,,White,Not Hispanic or Latino,Widowed,South Hadley,MA
+71389,male,1942-03-18,84,80+,f,,White,Not Hispanic or Latino,Widowed,Fairhaven,MA
+71699,female,1976-06-09,50,50-64,f,,White,Not Hispanic or Latino,Never Married,Westfield,MA
+71762,female,1987-04-11,39,35-49,f,,White,Not Hispanic or Latino,Never Married,Methuen,MA
+7202,female,1980-09-14,46,35-49,f,,White,Not Hispanic or Latino,Married,Cambridge,MA
+73234,male,1974-11-29,51,50-64,f,,White,Not Hispanic or Latino,Divorced,Springfield,MA
+7331,female,1987-02-15,39,35-49,f,,White,Not Hispanic or Latino,Married,Grafton,MA
+73791,male,1956-06-25,70,65-79,f,,White,Not Hispanic or Latino,Never Married,Ayer,MA
+73988,male,1969-06-26,57,50-64,f,,Black or African American,Not Hispanic or Latino,Married,Southwick,MA
+74036,female,1970-02-08,56,50-64,f,,White,Not Hispanic or Latino,Married,New Bedford,MA
+74354,female,2006-04-29,20,18-34,f,,White,Not Hispanic or Latino,Never Married,Attleboro,MA
+74418,male,2007-03-29,19,18-34,f,,White,Not Hispanic or Latino,Never Married,Lakeville,MA
+74498,female,1957-09-27,69,65-79,f,,White,Not Hispanic or Latino,Never Married,Attleboro,MA
+74608,female,1970-10-20,56,50-64,f,,White,Not Hispanic or Latino,Married,Weymouth,MA
+74708,female,2003-08-22,23,18-34,f,,Black or African American,Not Hispanic or Latino,Never Married,Dedham,MA
+76276,female,1975-11-10,51,50-64,f,,White,Not Hispanic or Latino,Divorced,Orange,MA
+76502,female,1999-09-08,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Harwich,MA
+76792,female,1947-01-10,79,65-79,f,,Black or African American,Not Hispanic or Latino,Married,West Tisbury,MA
+77038,male,1943-02-04,83,80+,f,,White,Not Hispanic or Latino,Never Married,Agawam,MA
+7705,female,1958-11-14,68,65-79,f,,Black or African American,Not Hispanic or Latino,Married,Natick,MA
+78643,female,1992-06-03,34,18-34,f,,White,Not Hispanic or Latino,Never Married,Lexington,MA
+7976,male,1997-04-25,29,18-34,f,,Black or African American,Not Hispanic or Latino,Married,Kingston,MA
+8061,male,1973-11-25,52,50-64,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+81010,female,1975-10-16,51,50-64,f,,White,Not Hispanic or Latino,Married,Everett,MA
+81446,male,1969-08-17,57,50-64,f,,White,Not Hispanic or Latino,Married,Leominster,MA
+8259,female,1966-08-11,60,50-64,f,,White,Not Hispanic or Latino,Widowed,Springfield,MA
+84506,female,1983-01-31,43,35-49,f,,Asian,Not Hispanic or Latino,Divorced,Boston,MA
+84629,female,1966-08-04,60,50-64,f,,White,Not Hispanic or Latino,Widowed,Cummington,MA
+85043,female,1984-12-05,41,35-49,f,,White,Not Hispanic or Latino,Married,Watertown,MA
+85192,female,1988-09-02,38,35-49,f,,White,Not Hispanic or Latino,Divorced,Taunton,MA
+85322,female,1945-04-04,81,80+,f,,Asian,Not Hispanic or Latino,Married,Medway,MA
+85576,female,1956-10-16,70,65-79,f,,White,Not Hispanic or Latino,Married,Cambridge,MA
+85715,female,1954-07-31,72,65-79,f,,White,Not Hispanic or Latino,Never Married,Hamilton,MA
+85923,female,1972-04-24,54,50-64,f,,White,Not Hispanic or Latino,Married,Holden,MA
+8599,female,1941-05-29,85,80+,f,,Other,Not Hispanic or Latino,Never Married,Dracut,MA
+86088,male,1989-12-29,36,35-49,f,,White,Not Hispanic or Latino,Married,Gloucester,MA
+86285,male,2006-02-24,20,18-34,f,,White,Not Hispanic or Latino,Never Married,Northampton,MA
+86350,male,1984-01-23,42,35-49,f,,White,Not Hispanic or Latino,Never Married,East Bridgewater,MA
+86458,male,1990-07-11,36,35-49,f,,White,Not Hispanic or Latino,Married,Barnstable,MA
+86527,female,1997-12-09,28,18-34,f,,White,Not Hispanic or Latino,Married,Wellfleet,MA
+86759,female,2005-02-12,21,18-34,f,,White,Not Hispanic or Latino,Never Married,Boston,MA
+86862,female,1971-12-26,54,50-64,f,,White,Not Hispanic or Latino,Married,Townsend,MA
+87276,female,1942-08-16,84,80+,f,,White,Not Hispanic or Latino,Divorced,Bridgewater,MA
+88117,female,1966-10-07,60,50-64,f,,White,Not Hispanic or Latino,Married,Franklin,MA
+88358,female,1974-04-07,52,50-64,f,,White,Not Hispanic or Latino,Divorced,Mansfield,MA
+88551,female,1972-01-16,54,50-64,f,,White,Not Hispanic or Latino,Never Married,Franklin,MA
+89075,male,2000-02-20,26,18-34,f,,White,Not Hispanic or Latino,Never Married,Marshfield,MA
+89185,female,1943-07-02,83,80+,f,,White,Not Hispanic or Latino,Never Married,Wales,MA
+89519,male,1999-01-02,27,18-34,f,,White,Not Hispanic or Latino,Never Married,Framingham,MA
+89619,male,1948-10-01,78,65-79,f,,White,Not Hispanic or Latino,Divorced,Orange,MA
+89736,male,1937-04-06,89,80+,f,,Asian,Not Hispanic or Latino,Married,Somerville,MA
+8992,male,2001-10-25,25,18-34,f,,White,Not Hispanic or Latino,Never Married,Framingham,MA
+91383,female,1952-10-20,74,65-79,f,,White,Not Hispanic or Latino,Married,Rehoboth,MA
+91640,male,1948-02-02,78,65-79,f,,White,Not Hispanic or Latino,Married,Templeton,MA
+9260,male,2002-06-03,24,18-34,f,,White,Hispanic or Latino,Never Married,Salisbury,MA
+93339,female,1942-10-20,84,80+,f,,White,Not Hispanic or Latino,Married,Dennis,MA
+93723,female,1980-08-25,46,35-49,f,,White,Not Hispanic or Latino,Never Married,Lynnfield,MA
+93806,female,1994-09-19,32,18-34,f,,Other,Not Hispanic or Latino,Never Married,Georgetown,MA
+94093,male,1964-08-23,62,50-64,f,,White,Not Hispanic or Latino,Never Married,Dedham,MA
+94140,male,1964-01-21,62,50-64,f,,White,Hispanic or Latino,Divorced,Swampscott,MA
+94557,female,1984-12-05,41,35-49,f,,White,Not Hispanic or Latino,Never Married,Barnstable,MA
+94705,male,1967-02-26,59,50-64,f,,White,Not Hispanic or Latino,Married,Lynn,MA
+94950,female,1977-05-22,49,35-49,f,,White,Not Hispanic or Latino,Divorced,Somerville,MA
+9514,male,1995-06-27,31,18-34,f,,White,Not Hispanic or Latino,Married,Malden,MA
+95274,male,1938-05-19,88,80+,f,,White,Not Hispanic or Latino,Divorced,Newton,MA
+95463,female,1988-02-26,38,35-49,f,,White,Not Hispanic or Latino,Married,Belchertown,MA
+95580,male,1972-06-12,54,50-64,f,,White,Not Hispanic or Latino,Married,Middleton,MA
+98639,male,1976-03-27,50,50-64,f,,White,Not Hispanic or Latino,Married,Maynard,MA

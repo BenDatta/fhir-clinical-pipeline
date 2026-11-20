@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: 'jdbc:postgresql://db:5432/hapi'
+    username: admin
+    # password comes from SPRING_DATASOURCE_PASSWORD (set from .env in docker-compose.yml)
+    driverClassName: org.postgresql.Driver
+
+  jpa:
+    properties:
+      hibernate.dialect: ca.uhn.fhir.jpa.model.dialect.HapiFhirPostgresDialect
+      hibernate.search.enabled: false
+
+hapi:
+  fhir:
+    fhir_version: R4
+    default_page_size: 100
+    max_page_size: 1000

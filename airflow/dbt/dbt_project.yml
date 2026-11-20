@@ -1,0 +1,14 @@
+name: fhir_clinical_warehouse
+version: '1.0.0'
+config-version: 2
+profile: fhir_clinical_warehouse
+model-paths: ["models"]
+test-paths: ["tests"]
+models:
+  fhir_clinical_warehouse:
+    staging:
+      +schema: staging
+      +materialized: view
+    marts:
+      +schema: marts
+      +materialized: table
