@@ -70,23 +70,6 @@ Notes for analysis:
 Each layer uses its own least-privilege account: `etl_user` writes `raw`,
 `dbt_user` builds `staging` and `marts`, and `tableau_user` can only read `marts`.
 
-## Quick start
-
-Prerequisites: Docker Desktop, Java 17+ (for Synthea), Python 3.
-
-```bash
-cp .env.example .env                 # set every password
-docker compose up -d --build
-curl http://localhost:8090/fhir/metadata
-```
-
-| Service      | Address                                  |
-|--------------|------------------------------------------|
-| HAPI FHIR    | http://localhost:8090/fhir               |
-| Airflow      | http://localhost:8091 (user `admin`)     |
-| PostgreSQL   | `localhost:5433`, database `warehouse`   |
-
-Airflow password: `docker exec fhir-clinical-pipeline-airflow-1 cat /opt/airflow/simple_auth_manager_passwords.json.generated`
 
 ## Running the pipeline
 
@@ -165,15 +148,3 @@ running the pipeline. Re-run the export after each pipeline run to refresh it.
 ├── docs/images/              # README diagrams (SVG)
 └── tools/                    # Synthea jar (git-ignored)
 ```
-
-## Design decisions
-
-- **ELT into one JSONB table:** raw FHIR is kept exactly as received, so models can be rebuilt without re-extracting.
-- **`_offset` paging:** HAPI 7.0.0's normal paging stops at 3,000 results.
-- **Least-privilege roles:** separate accounts for loading, transforming and BI.
-
-## Roadmap
-
-- Reconciliation and business-rule tests, plus pytest for the extractor
-- Incremental extraction with `_lastUpdated`
-- De-identification layer and Tableau dashboards
