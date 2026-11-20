@@ -10,23 +10,9 @@ exchanged as **HL7 FHIR R4** resources, extracted from a FHIR server by
 
 ## Architecture
 
-```mermaid
-flowchart LR
-    SY["Synthea"] -->|"FHIR R4 bundles<br/>load_synthea.py"| HAPI["HAPI FHIR Server<br/>:8090"]
-
-    subgraph DAG["Airflow DAG: fhir_clinical_pipeline"]
-        EL["extract_load<br/>Python"] --> TR["transform<br/>dbt build"]
-    end
-
-    subgraph WH["PostgreSQL warehouse"]
-        RAW[("raw.fhir_resources<br/>JSONB")] --> STG["staging.stg_*<br/>views"] --> MART[("marts.dim_* / fct_*<br/>tables")]
-    end
-
-    HAPI -->|"FHIR search API"| EL
-    EL -->|upsert| RAW
-    TR -.-> STG & MART
-    MART --> BI["Tableau / SQL<br/>:5433"]
-```
+<p align="center">
+  <img src="docs/images/architecture.svg" alt="Architecture: Synthea to HAPI FHIR, Airflow extract_load and dbt transform, PostgreSQL raw, staging and marts, Tableau and CSV exports" width="100%">
+</p>
 
 One PostgreSQL 14 instance hosts three databases: `hapi` (the FHIR server's
 storage), `warehouse` (analytics) and `airflow` (Airflow metadata).
@@ -62,63 +48,9 @@ resources (Procedure, Immunization, Claim and more); to extract one, add it to
 
 ## Data model
 
-```mermaid
-erDiagram
-    DIM_PATIENTS ||--o{ FCT_ENCOUNTERS : has
-    DIM_PATIENTS ||--o{ FCT_OBSERVATIONS : has
-    DIM_PATIENTS ||--o{ FCT_CONDITIONS : has
-    DIM_PATIENTS ||--o{ FCT_MEDICATION_REQUESTS : has
-    FCT_ENCOUNTERS ||--o{ FCT_CONDITIONS : diagnosed_in
-    DIM_PATIENTS {
-        text patient_id PK
-        text gender
-        date birth_date
-        int age
-        text age_group
-        bool is_deceased
-        timestamptz deceased_at
-        text race
-        text ethnicity
-        text city
-        text state
-    }
-    FCT_ENCOUNTERS {
-        text encounter_id PK
-        text patient_id FK
-        text encounter_class
-        timestamptz started_at
-        numeric duration_hours
-    }
-    FCT_OBSERVATIONS {
-        text observation_id PK
-        text patient_id FK
-        text observation_code
-        text observation_name
-        timestamptz observed_at
-        numeric value
-        text unit
-    }
-    FCT_CONDITIONS {
-        text condition_id PK
-        text patient_id FK
-        text encounter_id FK
-        text condition_code
-        text condition_name
-        text condition_type
-        bool is_active
-        timestamptz onset_at
-        numeric duration_days
-    }
-    FCT_MEDICATION_REQUESTS {
-        text medication_request_id PK
-        text patient_id FK
-        text medication_code
-        text medication_name
-        text status
-        text reason_name
-        timestamptz authored_at
-    }
-```
+<p align="center">
+  <img src="docs/images/data-model.svg" alt="Star schema: dim_patients joined to fct_encounters, fct_observations, fct_conditions and fct_medication_requests on patient_id" width="100%">
+</p>
 
 Notes for analysis:
 - `age` is age at death for deceased patients, otherwise age at the latest build.
@@ -234,6 +166,7 @@ running the pipeline. Re-run the export after each pipeline run to refresh it.
 ├── sql/bootstrap/            # databases, schemas, roles (first start only)
 ├── data/synthea/             # generated bundles (git-ignored)
 ├── exports/                  # CSV snapshot of the mart tables
+├── docs/images/              # README diagrams (SVG)
 └── tools/                    # Synthea jar (git-ignored)
 ```
 
